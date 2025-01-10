@@ -1,0 +1,1001 @@
+Dataset Name,Category,Format,Downloads,API Calls,Rating,Feedback,User Region,User Age Group,Timestamp,Unique_ID
+School Enrollment Data 1,Education,JSON,4585,872,3.7,Needs update,Australia,35â44,2023-07-08 06:52:18,1
+Emergency Response Times 2,Public Safety,XML,4865,1092,3.5,Great detail,Australia,25â34,2023-03-19 10:54:37,2
+Waste Management 3,Environment,XML,1305,873,4.1,Needs update,Africa,35â44,2023-01-15 13:46:14,3
+Economic Growth Metrics 4,Finance,CSV,3522,1850,5.0,Great detail,Asia,55â64,2023-11-22 08:27:17,4
+Green Energy Usage 5,Environment,Excel,1004,1964,4.1,Excellent,Africa,25â34,2023-12-22 10:14:38,5
+Air Quality Levels 6,Environment,JSON,3429,529,4.5,Very useful,Europe,25â34,2023-03-18 17:27:01,6
+Literacy Rates 7,Education,XML,2864,1975,4.5,Average,Africa,25â34,2023-08-19 08:35:27,7
+Waste Management 8,Environment,XML,3982,992,4.8,Excellent,Africa,55â64,2023-04-08 16:36:30,8
+Disaster Recovery 9,Public Safety,JSON,3495,1423,2.4,Very useful,Africa,25â34,2023-01-28 20:06:50,9
+Inflation Trends 10,Finance,XML,2159,1592,3.0,Average,Africa,25â34,2023-01-26 14:47:03,10
+Air Quality Levels 11,Environment,JSON,1598,1144,4.8,Very useful,Europe,25â34,2023-10-25 14:06:55,11
+Hospital Admissions 12,Health,JSON,594,1867,1.9,Not relevant,South America,25â34,2023-10-14 15:52:10,12
+Waste Management 13,Environment,CSV,2385,1828,2.3,Excellent,Africa,25â34,2023-03-25 08:49:36,13
+Economic Growth Metrics 14,Finance,JSON,4542,1628,2.6,Average,Asia,18â24,2023-05-08 12:01:30,14
+Inflation Trends 15,Finance,CSV,4629,621,4.4,Needs update,Australia,25â34,2023-02-28 01:03:57,15
+School Enrollment Data 16,Education,CSV,2513,1468,4.0,Needs update,South America,25â34,2023-11-20 09:16:22,16
+Tax Revenue Analysis 17,Finance,CSV,849,1508,3.8,Great detail,Asia,35â44,2023-04-10 06:38:11,17
+Public Transport Statistics 18,Transportation,JSON,2123,334,1.8,Great detail,Africa,35â44,2023-01-25 13:35:52,18
+Economic Growth Metrics 19,Finance,Excel,1002,1310,2.4,Needs update,Europe,18â24,2023-02-05 11:20:05,19
+Teacher Distribution 20,Education,Excel,4665,1094,4.9,Very useful,Africa,25â34,2023-05-27 07:56:07,20
+Traffic Data 21,Transportation,Excel,1782,1838,4.1,Excellent,South America,45â54,2023-01-09 20:36:19,21
+Tax Revenue Analysis 22,Finance,CSV,3130,1388,4.4,Great detail,Africa,25â34,2023-08-01 12:43:08,22
+Public Transport Statistics 23,Transportation,CSV,1985,1706,4.7,Very useful,North America,45â54,2023-03-12 21:17:57,23
+Mental Health Trends 24,Health,JSON,3225,183,4.4,Very useful,Africa,25â34,2023-06-20 18:45:03,24
+Green Energy Usage 25,Environment,JSON,3325,1626,1.7,Great detail,Europe,35â44,2023-09-23 19:29:06,25
+Air Quality Levels 26,Environment,JSON,1141,288,1.9,Average,North America,25â34,2023-01-25 11:23:45,26
+Water Pollution Data 27,Environment,XML,4273,1890,2.2,Excellent,South America,18â24,2023-01-02 05:18:10,27
+Fire Incidents 28,Public Safety,XML,4730,1053,1.5,Very useful,Africa,45â54,2023-10-05 17:21:12,28
+Education Funding 29,Education,XML,270,412,4.3,Average,Australia,25â34,2023-08-06 11:52:11,29
+Commute Times 30,Transportation,JSON,4272,460,2.4,Great detail,North America,25â34,2023-12-11 16:33:00,30
+Traffic Data 31,Transportation,CSV,3634,1529,4.0,Excellent,Asia,35â44,2023-10-01 10:23:26,31
+Emergency Response Times 32,Public Safety,CSV,2495,817,4.8,Needs update,Asia,35â44,2023-08-23 19:46:35,32
+Student Performance 33,Education,CSV,4315,715,2.3,Very useful,Asia,18â24,2023-09-02 12:36:52,33
+Road Safety Analysis 34,Transportation,JSON,4435,1379,3.6,Excellent,Asia,35â44,2023-12-20 12:29:51,34
+Community Policing 35,Public Safety,CSV,4526,892,2.1,Very useful,Australia,35â44,2023-08-04 23:35:30,35
+Traffic Data 36,Transportation,Excel,1146,1075,3.7,Not relevant,Africa,25â34,2023-08-23 12:27:00,36
+Literacy Rates 37,Education,JSON,2305,502,4.1,Very useful,North America,35â44,2023-10-04 08:12:36,37
+Waste Management 38,Environment,JSON,1510,1684,1.2,Very useful,Australia,25â34,2023-08-22 17:56:06,38
+Mental Health Trends 39,Health,XML,793,1949,2.2,Average,Australia,35â44,2023-06-24 23:17:55,39
+Disease Outbreaks 40,Health,Excel,3720,466,3.3,Average,Asia,18â24,2023-01-21 18:37:13,40
+Air Quality Levels 41,Environment,Excel,2755,1522,2.1,Needs update,Australia,18â24,2023-10-02 01:07:12,41
+Water Pollution Data 42,Environment,JSON,4077,1795,2.6,Excellent,Europe,18â24,2023-03-12 15:01:05,42
+Waste Management 43,Environment,CSV,4236,219,2.9,Great detail,Asia,35â44,2023-08-04 15:25:41,43
+Road Safety Analysis 44,Transportation,CSV,1301,1149,4.9,Great detail,South America,25â34,2023-04-24 11:34:09,44
+Commute Times 45,Transportation,Excel,2325,1739,2.4,Average,Asia,18â24,2023-01-28 18:36:18,45
+Air Quality Levels 46,Environment,XML,1611,1086,1.9,Excellent,Asia,35â44,2023-11-02 22:13:07,46
+Emergency Response Times 47,Public Safety,XML,1899,1721,1.2,Needs update,Australia,25â34,2023-07-03 18:01:23,47
+Student Performance 48,Education,XML,2458,1361,3.7,Great detail,Australia,25â34,2023-06-02 17:21:38,48
+Road Safety Analysis 49,Transportation,Excel,3930,1487,1.0,Needs update,North America,18â24,2023-03-14 14:29:39,49
+Disease Outbreaks 50,Health,CSV,1740,958,3.8,Excellent,Australia,35â44,2023-05-08 03:00:27,50
+COVID-19 Data 51,Health,JSON,1535,450,2.2,Excellent,North America,25â34,2023-03-09 15:50:36,51
+Hospital Admissions 52,Health,CSV,2738,443,2.3,Average,Asia,25â34,2023-10-25 20:43:04,52
+Public Transport Statistics 53,Transportation,CSV,1340,345,1.6,Very useful,South America,35â44,2023-07-03 18:08:08,53
+Deforestation Rates 54,Environment,JSON,3249,1127,4.3,Not relevant,Europe,25â34,2023-02-27 17:48:40,54
+Community Policing 55,Public Safety,CSV,2376,1055,2.9,Not relevant,Africa,35â44,2023-07-23 14:47:46,55
+National Budget Reports 56,Finance,Excel,1818,80,3.5,Needs update,Asia,25â34,2023-02-16 11:50:03,56
+Tax Revenue Analysis 57,Finance,Excel,4945,1604,3.5,Very useful,South America,18â24,2023-10-11 15:18:55,57
+Student Performance 58,Education,CSV,864,131,3.6,Average,South America,18â24,2023-03-17 14:18:07,58
+Economic Growth Metrics 59,Finance,CSV,4608,1829,4.6,Average,South America,18â24,2023-05-19 13:26:18,59
+Community Policing 60,Public Safety,CSV,3188,735,4.4,Not relevant,Europe,18â24,2023-04-13 10:13:51,60
+Traffic Data 61,Transportation,Excel,4525,1002,4.9,Great detail,Australia,45â54,2023-10-24 05:08:39,61
+Literacy Rates 62,Education,Excel,3201,949,3.3,Not relevant,Europe,25â34,2023-02-12 18:43:41,62
+Waste Management 63,Environment,XML,4560,1822,2.7,Very useful,Europe,18â24,2023-09-20 18:49:28,63
+Disaster Recovery 64,Public Safety,JSON,579,1730,4.8,Not relevant,Europe,25â34,2023-01-15 11:17:12,64
+Inflation Trends 65,Finance,XML,3522,303,2.1,Average,Australia,25â34,2023-02-11 10:09:16,65
+School Enrollment Data 66,Education,XML,3001,82,2.0,Excellent,North America,55â64,2023-01-04 11:35:15,66
+Literacy Rates 67,Education,JSON,3186,787,1.8,Not relevant,Africa,25â34,2023-09-11 08:35:40,67
+Expenditure Tracking 68,Finance,XML,1471,1381,1.3,Needs update,Europe,45â54,2023-10-28 21:42:07,68
+Deforestation Rates 69,Environment,JSON,1813,620,2.7,Not relevant,South America,18â24,2023-05-05 08:30:18,69
+Teacher Distribution 70,Education,CSV,244,1587,2.6,Average,Africa,18â24,2023-01-16 13:52:35,70
+School Enrollment Data 71,Education,XML,1723,1764,5.0,Great detail,South America,35â44,2023-01-21 20:14:26,71
+Hospital Admissions 72,Health,Excel,3662,1665,2.6,Very useful,Asia,25â34,2023-07-02 12:16:56,72
+Public Transport Statistics 73,Transportation,XML,2744,1131,1.3,Average,Asia,25â34,2023-04-17 20:40:02,73
+Road Safety Analysis 74,Transportation,XML,4594,27,1.6,Average,Asia,55â64,2023-12-19 00:26:01,74
+Disease Outbreaks 75,Health,CSV,138,373,1.5,Very useful,South America,45â54,2023-06-19 10:33:14,75
+Crime Statistics 76,Public Safety,JSON,4293,458,4.8,Not relevant,Africa,35â44,2023-03-01 19:03:35,76
+Hospital Admissions 77,Health,Excel,2442,1230,1.0,Great detail,South America,35â44,2023-08-10 13:17:29,77
+Public Transport Statistics 78,Transportation,CSV,897,768,2.7,Excellent,Africa,25â34,2023-05-02 21:49:13,78
+Mental Health Trends 79,Health,Excel,4134,656,5.0,Average,Africa,25â34,2023-06-10 15:51:11,79
+Community Policing 80,Public Safety,CSV,1240,1342,1.7,Great detail,North America,25â34,2023-12-20 16:08:44,80
+COVID-19 Data 81,Health,Excel,2858,995,3.5,Excellent,Africa,45â54,2023-02-18 12:18:02,81
+Hospital Admissions 82,Health,Excel,4866,1097,1.5,Average,Europe,25â34,2023-09-09 19:34:01,82
+Waste Management 83,Environment,Excel,1060,786,1.6,Excellent,South America,18â24,2023-08-25 16:04:10,83
+Road Safety Analysis 84,Transportation,Excel,433,1207,2.3,Great detail,Australia,25â34,2023-04-16 19:03:24,84
+Teacher Distribution 85,Education,Excel,4445,861,3.7,Not relevant,Australia,25â34,2023-05-03 08:06:51,85
+Traffic Data 86,Transportation,JSON,3191,487,3.2,Average,North America,35â44,2023-08-09 14:07:21,86
+Literacy Rates 87,Education,Excel,2841,1630,4.1,Not relevant,Asia,25â34,2023-11-24 14:16:55,87
+Public Transport Statistics 88,Transportation,JSON,3767,1378,3.8,Great detail,Australia,45â54,2023-10-06 10:24:40,88
+Education Funding 89,Education,CSV,3185,1875,4.1,Not relevant,North America,35â44,2023-09-09 11:29:13,89
+Commute Times 90,Transportation,XML,225,1555,3.2,Excellent,South America,25â34,2023-02-06 08:28:44,90
+Crime Statistics 91,Public Safety,JSON,4581,109,1.2,Great detail,Asia,35â44,2023-04-12 13:33:12,91
+Emergency Response Times 92,Public Safety,Excel,4889,1219,1.8,Needs update,North America,25â34,2023-01-17 09:21:18,92
+Expenditure Tracking 93,Finance,XML,3238,1439,2.5,Average,Asia,25â34,2023-06-08 18:52:21,93
+Deforestation Rates 94,Environment,JSON,2353,1343,3.6,Very useful,Africa,35â44,2023-03-16 19:03:24,94
+Green Energy Usage 95,Environment,CSV,2738,2000,2.3,Excellent,Asia,25â34,2023-11-14 14:14:42,95
+School Enrollment Data 96,Education,JSON,2908,137,4.9,Not relevant,Asia,55â64,2023-07-24 18:44:14,96
+Hospital Admissions 97,Health,XML,4992,249,1.2,Needs update,Australia,35â44,2023-09-06 15:23:38,97
+Public Transport Statistics 98,Transportation,CSV,1473,710,2.4,Excellent,Australia,45â54,2023-11-03 11:17:24,98
+Education Funding 99,Education,Excel,2117,126,4.3,Not relevant,Australia,25â34,2023-11-21 13:59:12,99
+Community Policing 100,Public Safety,Excel,587,1092,4.8,Great detail,North America,45â54,2023-07-05 04:27:10,100
+Crime Statistics 101,Public Safety,XML,2111,1393,3.5,Very useful,North America,25â34,2023-04-08 22:52:35,101
+Emergency Response Times 102,Public Safety,Excel,3442,1262,1.8,Needs update,Africa,25â34,2023-10-01 00:40:33,102
+Public Transport Statistics 103,Transportation,Excel,613,210,4.9,Not relevant,North America,18â24,2023-09-11 06:51:01,103
+Education Funding 104,Education,XML,3522,1151,1.8,Average,Europe,35â44,2023-12-04 15:28:37,104
+Disease Outbreaks 105,Health,JSON,3323,187,1.7,Excellent,South America,18â24,2023-12-14 16:01:04,105
+COVID-19 Data 106,Health,JSON,2033,1491,3.3,Not relevant,South America,35â44,2023-03-15 13:53:36,106
+Hospital Admissions 107,Health,CSV,1572,1297,1.7,Needs update,Australia,55â64,2023-12-22 10:42:47,107
+Waste Management 108,Environment,XML,4649,575,1.0,Very useful,Africa,25â34,2023-01-18 12:07:39,108
+Road Safety Analysis 109,Transportation,CSV,3224,1516,1.4,Great detail,Asia,35â44,2023-11-21 16:42:25,109
+Inflation Trends 110,Finance,JSON,553,85,4.7,Excellent,North America,45â54,2023-03-06 05:08:23,110
+Traffic Data 111,Transportation,CSV,2068,1156,3.2,Great detail,South America,35â44,2023-06-02 21:53:54,111
+Hospital Admissions 112,Health,CSV,457,1756,4.8,Great detail,Asia,18â24,2023-07-26 16:31:44,112
+Waste Management 113,Environment,Excel,2118,314,2.0,Excellent,Europe,25â34,2023-07-04 15:42:19,113
+Mental Health Trends 114,Health,Excel,1551,347,3.8,Not relevant,Europe,35â44,2023-05-27 22:01:01,114
+Commute Times 115,Transportation,XML,4327,1777,2.4,Great detail,Europe,45â54,2023-12-18 22:54:59,115
+Traffic Data 116,Transportation,Excel,4515,1886,3.5,Excellent,Africa,25â34,2023-10-23 08:14:31,116
+Vehicle Emissions 117,Transportation,XML,2039,692,2.7,Very useful,South America,35â44,2023-10-08 03:01:10,117
+Public Transport Statistics 118,Transportation,XML,3368,202,2.0,Very useful,North America,45â54,2023-06-25 13:29:35,118
+Road Safety Analysis 119,Transportation,XML,2044,1832,2.6,Average,Asia,18â24,2023-08-04 18:25:35,119
+Teacher Distribution 120,Education,JSON,2369,1122,2.0,Very useful,Africa,25â34,2023-06-04 17:19:30,120
+COVID-19 Data 121,Health,Excel,2954,1628,3.4,Great detail,Australia,35â44,2023-12-26 09:25:59,121
+Literacy Rates 122,Education,JSON,822,856,2.3,Average,Asia,18â24,2023-02-05 14:49:57,122
+Waste Management 123,Environment,JSON,2395,1213,2.4,Needs update,Africa,18â24,2023-06-22 16:23:44,123
+Mental Health Trends 124,Health,JSON,2949,565,4.4,Very useful,Australia,35â44,2023-05-08 16:01:14,124
+Inflation Trends 125,Finance,Excel,1034,571,3.2,Very useful,Europe,45â54,2023-04-16 14:33:54,125
+COVID-19 Data 126,Health,JSON,2665,1001,1.1,Not relevant,North America,45â54,2023-11-09 04:07:08,126
+Water Pollution Data 127,Environment,JSON,479,1035,2.1,Average,Australia,25â34,2023-06-26 15:40:50,127
+Fire Incidents 128,Public Safety,CSV,1749,759,5.0,Average,Europe,35â44,2023-12-18 17:42:30,128
+Deforestation Rates 129,Environment,JSON,1703,1263,2.9,Very useful,South America,25â34,2023-07-23 13:56:01,129
+Inflation Trends 130,Finance,Excel,4829,475,4.0,Excellent,Asia,25â34,2023-10-25 11:45:46,130
+Traffic Data 131,Transportation,XML,601,674,4.7,Great detail,Australia,45â54,2023-02-25 12:21:08,131
+Literacy Rates 132,Education,Excel,121,1428,2.0,Great detail,Europe,25â34,2023-02-10 20:31:42,132
+Expenditure Tracking 133,Finance,CSV,1970,1178,1.5,Great detail,South America,25â34,2023-09-14 10:39:09,133
+Deforestation Rates 134,Environment,Excel,1518,1537,3.4,Great detail,Africa,18â24,2023-12-25 12:11:26,134
+Green Energy Usage 135,Environment,XML,1256,871,3.8,Very useful,Australia,55â64,2023-03-20 08:04:30,135
+COVID-19 Data 136,Health,XML,743,1047,1.7,Not relevant,Europe,45â54,2023-07-03 14:18:11,136
+Vehicle Emissions 137,Transportation,JSON,2885,1771,3.4,Great detail,Africa,35â44,2023-12-15 09:14:49,137
+Vaccination Statistics 138,Health,CSV,3183,461,3.7,Very useful,South America,45â54,2023-05-05 09:53:17,138
+Road Safety Analysis 139,Transportation,JSON,1667,269,2.8,Needs update,Australia,35â44,2023-05-22 14:52:09,139
+Commute Times 140,Transportation,XML,1385,939,2.6,Excellent,Europe,35â44,2023-07-24 04:32:36,140
+Air Quality Levels 141,Environment,CSV,2582,1474,2.3,Needs update,Australia,45â54,2023-05-20 16:09:22,141
+Emergency Response Times 142,Public Safety,JSON,2098,1323,2.1,Great detail,Europe,25â34,2023-05-14 13:59:13,142
+Fire Incidents 143,Public Safety,CSV,1044,416,2.0,Needs update,Australia,25â34,2023-05-16 18:19:06,143
+Road Safety Analysis 144,Transportation,JSON,1333,1138,3.2,Excellent,Africa,55â64,2023-06-26 16:34:41,144
+Disease Outbreaks 145,Health,Excel,1377,1510,3.5,Very useful,Australia,35â44,2023-05-04 11:46:35,145
+School Enrollment Data 146,Education,JSON,448,1317,3.1,Not relevant,Asia,55â64,2023-05-22 18:15:03,146
+Vehicle Emissions 147,Transportation,CSV,4730,363,1.1,Average,Asia,25â34,2023-02-22 12:30:04,147
+Expenditure Tracking 148,Finance,CSV,3228,511,3.3,Average,Africa,25â34,2023-02-06 20:35:23,148
+Education Funding 149,Education,XML,3970,1682,2.2,Average,South America,35â44,2023-01-06 18:31:15,149
+Commute Times 150,Transportation,XML,1795,1684,3.2,Great detail,North America,35â44,2023-07-23 08:41:02,150
+School Enrollment Data 151,Education,JSON,2713,1972,1.7,Average,South America,45â54,2023-05-25 18:15:25,151
+Literacy Rates 152,Education,CSV,2947,590,2.2,Not relevant,Asia,25â34,2023-11-16 18:00:02,152
+Student Performance 153,Education,CSV,4625,1163,2.5,Very useful,Africa,18â24,2023-02-12 19:44:42,153
+Disaster Recovery 154,Public Safety,XML,1007,1279,2.8,Very useful,North America,45â54,2023-05-10 02:31:22,154
+Disease Outbreaks 155,Health,XML,1999,178,4.0,Very useful,North America,25â34,2023-03-25 18:23:00,155
+School Enrollment Data 156,Education,XML,2050,1907,4.6,Not relevant,South America,35â44,2023-11-28 05:58:18,156
+Hospital Admissions 157,Health,XML,3745,143,1.2,Excellent,Asia,25â34,2023-08-25 22:31:13,157
+Waste Management 158,Environment,XML,4924,11,1.1,Very useful,Asia,25â34,2023-06-12 19:57:27,158
+Disaster Recovery 159,Public Safety,Excel,720,1759,4.5,Great detail,Australia,35â44,2023-10-18 22:19:46,159
+Community Policing 160,Public Safety,XML,123,1779,3.3,Great detail,Asia,45â54,2023-08-17 15:58:54,160
+National Budget Reports 161,Finance,JSON,426,1817,2.6,Great detail,Asia,35â44,2023-01-28 15:36:52,161
+Literacy Rates 162,Education,XML,4157,1722,3.8,Average,Australia,25â34,2023-04-17 11:00:46,162
+Public Transport Statistics 163,Transportation,JSON,224,1360,3.6,Excellent,North America,25â34,2023-04-03 17:31:07,163
+Deforestation Rates 164,Environment,XML,2509,783,2.9,Great detail,Australia,25â34,2023-04-09 13:57:10,164
+Inflation Trends 165,Finance,Excel,3054,1138,2.2,Excellent,North America,45â54,2023-02-11 13:48:27,165
+COVID-19 Data 166,Health,JSON,2473,1897,1.4,Great detail,Europe,45â54,2023-10-27 09:12:03,166
+Water Pollution Data 167,Environment,XML,3728,66,2.5,Great detail,Australia,35â44,2023-09-12 20:16:22,167
+Expenditure Tracking 168,Finance,Excel,3395,894,3.2,Not relevant,South America,65+,2023-06-23 21:25:08,168
+Education Funding 169,Education,CSV,3031,237,2.7,Very useful,Australia,25â34,2023-10-04 09:37:08,169
+Commute Times 170,Transportation,JSON,4524,125,2.9,Needs update,Australia,25â34,2023-05-02 19:41:41,170
+Air Quality Levels 171,Environment,XML,3246,954,4.6,Great detail,Asia,35â44,2023-12-26 08:55:38,171
+Literacy Rates 172,Education,CSV,4034,1742,4.2,Very useful,Europe,25â34,2023-11-09 10:29:55,172
+Student Performance 173,Education,Excel,1119,272,3.4,Average,North America,45â54,2023-06-22 18:32:10,173
+Mental Health Trends 174,Health,XML,4798,501,2.9,Average,Australia,35â44,2023-11-26 16:21:54,174
+Commute Times 175,Transportation,CSV,2757,89,1.9,Not relevant,Europe,35â44,2023-04-15 12:55:28,175
+Crime Statistics 176,Public Safety,XML,4044,816,4.5,Great detail,South America,18â24,2023-11-16 09:01:11,176
+Emergency Response Times 177,Public Safety,XML,3140,1899,4.3,Excellent,Europe,35â44,2023-10-21 13:51:53,177
+Student Performance 178,Education,CSV,635,1281,3.5,Not relevant,Australia,25â34,2023-03-24 11:53:25,178
+Economic Growth Metrics 179,Finance,JSON,4882,164,3.5,Average,Asia,25â34,2023-11-27 17:26:47,179
+Green Energy Usage 180,Environment,Excel,554,750,1.9,Needs update,Asia,35â44,2023-12-01 15:43:33,180
+Crime Statistics 181,Public Safety,JSON,742,1969,2.7,Very useful,North America,35â44,2023-06-09 19:43:31,181
+Water Pollution Data 182,Environment,CSV,911,725,2.4,Needs update,North America,55â64,2023-07-14 19:48:47,182
+Expenditure Tracking 183,Finance,CSV,2131,159,3.1,Needs update,Asia,35â44,2023-07-10 19:55:26,183
+Mental Health Trends 184,Health,CSV,4974,825,2.1,Average,North America,35â44,2023-05-13 10:26:21,184
+Community Policing 185,Public Safety,Excel,3945,41,1.6,Needs update,Australia,35â44,2023-09-14 15:17:16,185
+National Budget Reports 186,Finance,Excel,2345,1299,2.4,Great detail,Australia,65+,2023-04-15 08:03:02,186
+Hospital Admissions 187,Health,CSV,4764,1662,4.8,Not relevant,Australia,25â34,2023-06-25 11:30:46,187
+Public Transport Statistics 188,Transportation,JSON,2414,387,1.1,Excellent,South America,35â44,2023-07-18 02:43:02,188
+Disaster Recovery 189,Public Safety,JSON,857,1746,3.6,Average,Australia,45â54,2023-06-15 10:38:36,189
+Disease Outbreaks 190,Health,XML,4069,1256,1.4,Great detail,Asia,45â54,2023-02-07 15:13:28,190
+National Budget Reports 191,Finance,Excel,3856,1451,3.2,Needs update,North America,35â44,2023-01-24 17:01:33,191
+Water Pollution Data 192,Environment,JSON,2537,22,3.2,Very useful,Europe,18â24,2023-11-02 20:40:55,192
+Vaccination Statistics 193,Health,JSON,3471,794,3.3,Excellent,South America,45â54,2023-01-10 19:14:57,193
+Mental Health Trends 194,Health,JSON,1860,1320,2.9,Needs update,Asia,45â54,2023-11-15 10:51:57,194
+Inflation Trends 195,Finance,Excel,1128,1562,2.3,Excellent,North America,65+,2023-07-02 10:28:36,195
+Crime Statistics 196,Public Safety,Excel,907,1595,2.3,Needs update,Australia,45â54,2023-02-22 17:34:55,196
+Vehicle Emissions 197,Transportation,XML,3668,1437,4.0,Excellent,Asia,45â54,2023-06-04 14:01:35,197
+Student Performance 198,Education,XML,2713,1733,2.5,Very useful,Europe,18â24,2023-12-18 18:27:53,198
+Education Funding 199,Education,XML,1747,1869,2.4,Excellent,Africa,45â54,2023-11-09 15:30:44,199
+Community Policing 200,Public Safety,XML,3487,651,4.2,Average,North America,25â34,2023-04-11 11:02:54,200
+Air Quality Levels 201,Environment,JSON,713,1041,3.1,Excellent,North America,25â34,2023-09-26 08:28:14,201
+Emergency Response Times 202,Public Safety,Excel,609,761,4.9,Very useful,North America,18â24,2023-09-24 11:04:34,202
+Expenditure Tracking 203,Finance,JSON,1124,1699,4.9,Great detail,North America,45â54,2023-07-12 18:36:41,203
+Deforestation Rates 204,Environment,XML,3083,741,2.6,Average,Asia,45â54,2023-05-03 19:28:06,204
+Commute Times 205,Transportation,XML,3520,746,4.3,Great detail,Asia,45â54,2023-01-18 10:04:05,205
+Traffic Data 206,Transportation,JSON,236,1129,3.4,Great detail,Europe,45â54,2023-02-17 13:43:36,206
+Tax Revenue Analysis 207,Finance,CSV,4116,1310,3.3,Needs update,South America,35â44,2023-10-01 17:02:04,207
+Expenditure Tracking 208,Finance,XML,2649,360,1.1,Excellent,Australia,25â34,2023-11-28 10:36:52,208
+Road Safety Analysis 209,Transportation,CSV,4106,386,3.6,Great detail,Australia,45â54,2023-09-07 18:23:31,209
+Commute Times 210,Transportation,Excel,2603,1034,3.8,Average,Asia,65+,2023-01-26 17:43:38,210
+COVID-19 Data 211,Health,CSV,1335,561,4.5,Not relevant,Europe,25â34,2023-10-17 08:03:06,211
+Hospital Admissions 212,Health,XML,3559,721,3.4,Not relevant,South America,25â34,2023-07-14 20:25:25,212
+Fire Incidents 213,Public Safety,Excel,2084,821,4.3,Very useful,Europe,35â44,2023-02-21 09:28:21,213
+Disaster Recovery 214,Public Safety,JSON,4767,1050,4.7,Needs update,Australia,25â34,2023-12-01 09:25:39,214
+Teacher Distribution 215,Education,CSV,2421,1316,5.0,Not relevant,South America,25â34,2023-04-13 10:31:05,215
+Traffic Data 216,Transportation,JSON,4867,545,1.9,Average,North America,25â34,2023-01-19 11:19:14,216
+Hospital Admissions 217,Health,CSV,413,510,4.2,Needs update,Africa,55â64,2023-05-12 15:06:46,217
+Public Transport Statistics 218,Transportation,CSV,140,458,3.4,Great detail,Europe,45â54,2023-03-11 10:11:36,218
+Road Safety Analysis 219,Transportation,XML,115,698,3.0,Very useful,South America,25â34,2023-12-19 17:33:33,219
+Commute Times 220,Transportation,CSV,3470,1705,2.8,Average,Asia,25â34,2023-04-17 09:05:05,220
+Air Quality Levels 221,Environment,JSON,2880,965,2.5,Very useful,North America,45â54,2023-08-01 13:52:14,221
+Vehicle Emissions 222,Transportation,XML,2866,1484,4.5,Not relevant,Europe,18â24,2023-05-12 11:39:39,222
+Expenditure Tracking 223,Finance,Excel,1085,724,1.7,Not relevant,South America,35â44,2023-06-17 16:23:09,223
+Education Funding 224,Education,CSV,668,149,2.6,Excellent,South America,25â34,2023-08-03 19:24:24,224
+Teacher Distribution 225,Education,CSV,381,1460,2.8,Average,North America,55â64,2023-11-03 08:21:40,225
+Crime Statistics 226,Public Safety,JSON,4759,1956,2.5,Not relevant,Australia,35â44,2023-06-02 16:53:01,226
+Tax Revenue Analysis 227,Finance,JSON,4101,1577,2.9,Needs update,North America,25â34,2023-05-14 16:03:54,227
+Expenditure Tracking 228,Finance,CSV,3086,1556,4.6,Average,Europe,35â44,2023-10-20 08:05:44,228
+Deforestation Rates 229,Environment,CSV,3741,1273,1.2,Average,North America,35â44,2023-01-25 13:55:48,229
+Green Energy Usage 230,Environment,CSV,1181,29,4.3,Needs update,North America,18â24,2023-05-19 11:36:59,230
+COVID-19 Data 231,Health,CSV,1322,254,1.0,Average,South America,25â34,2023-07-28 22:45:46,231
+Emergency Response Times 232,Public Safety,JSON,4869,241,3.1,Not relevant,Europe,35â44,2023-01-26 18:32:33,232
+Expenditure Tracking 233,Finance,JSON,4258,1792,4.9,Excellent,Africa,25â34,2023-06-07 13:58:11,233
+Disaster Recovery 234,Public Safety,JSON,414,1818,4.1,Very useful,Australia,25â34,2023-07-22 08:56:35,234
+Community Policing 235,Public Safety,Excel,4237,1582,1.5,Needs update,Africa,25â34,2023-08-03 17:32:23,235
+School Enrollment Data 236,Education,XML,2631,96,3.2,Not relevant,North America,35â44,2023-07-12 16:56:30,236
+Emergency Response Times 237,Public Safety,Excel,4283,206,4.4,Great detail,North America,45â54,2023-12-24 12:46:28,237
+Waste Management 238,Environment,XML,526,257,3.4,Very useful,Asia,25â34,2023-08-05 20:02:07,238
+Road Safety Analysis 239,Transportation,JSON,4795,1777,1.7,Not relevant,Africa,25â34,2023-04-06 09:41:27,239
+Teacher Distribution 240,Education,CSV,304,1289,1.8,Very useful,Asia,25â34,2023-06-12 20:28:48,240
+COVID-19 Data 241,Health,JSON,3893,537,4.9,Needs update,North America,25â34,2023-06-07 09:26:01,241
+Water Pollution Data 242,Environment,JSON,4078,990,2.9,Excellent,North America,35â44,2023-09-24 08:42:18,242
+Vaccination Statistics 243,Health,CSV,1950,337,3.6,Excellent,Europe,25â34,2023-01-15 13:49:59,243
+Disaster Recovery 244,Public Safety,CSV,4193,1837,2.0,Average,Europe,25â34,2023-06-18 04:25:41,244
+Community Policing 245,Public Safety,CSV,2770,1314,4.1,Very useful,Europe,25â34,2023-05-11 18:31:05,245
+School Enrollment Data 246,Education,Excel,2678,795,4.3,Great detail,Europe,35â44,2023-07-22 04:39:38,246
+Water Pollution Data 247,Environment,Excel,3926,830,3.1,Average,Africa,18â24,2023-09-02 17:26:53,247
+Vaccination Statistics 248,Health,JSON,3384,1711,4.2,Not relevant,North America,25â34,2023-12-23 20:00:03,248
+Economic Growth Metrics 249,Finance,XML,4792,13,2.6,Very useful,Australia,45â54,2023-07-17 14:52:19,249
+Teacher Distribution 250,Education,XML,1341,152,4.5,Average,South America,25â34,2023-02-05 15:05:36,250
+Traffic Data 251,Transportation,JSON,4505,928,1.0,Very useful,Africa,25â34,2023-12-17 12:15:27,251
+Tax Revenue Analysis 252,Finance,CSV,902,833,3.0,Very useful,Australia,35â44,2023-06-23 13:45:37,252
+Waste Management 253,Environment,CSV,1774,712,2.7,Needs update,Europe,25â34,2023-01-21 04:04:43,253
+Education Funding 254,Education,Excel,3864,380,1.8,Very useful,South America,45â54,2023-12-03 18:18:47,254
+Teacher Distribution 255,Education,JSON,3629,1146,1.8,Not relevant,North America,25â34,2023-10-23 11:16:59,255
+Crime Statistics 256,Public Safety,CSV,3167,1962,4.3,Needs update,Australia,25â34,2023-09-19 19:59:47,256
+Vehicle Emissions 257,Transportation,XML,1547,59,1.8,Excellent,Asia,65+,2023-02-17 09:32:58,257
+Student Performance 258,Education,XML,3707,351,3.5,Great detail,Africa,35â44,2023-08-09 16:09:25,258
+Mental Health Trends 259,Health,JSON,451,277,4.6,Excellent,South America,25â34,2023-10-20 05:03:56,259
+Green Energy Usage 260,Environment,XML,2384,1202,4.9,Needs update,Europe,25â34,2023-01-02 17:59:35,260
+School Enrollment Data 261,Education,CSV,3091,1573,2.9,Needs update,Europe,65+,2023-09-16 13:31:57,261
+Tax Revenue Analysis 262,Finance,JSON,2559,887,2.7,Needs update,Africa,45â54,2023-01-04 18:03:26,262
+Waste Management 263,Environment,XML,149,309,3.7,Not relevant,Asia,25â34,2023-09-16 13:54:12,263
+Education Funding 264,Education,CSV,215,677,2.4,Great detail,South America,35â44,2023-04-16 17:02:59,264
+Disease Outbreaks 265,Health,Excel,82,541,1.9,Needs update,Australia,35â44,2023-10-16 09:11:05,265
+Traffic Data 266,Transportation,XML,1790,1538,2.0,Great detail,Australia,45â54,2023-12-05 20:47:38,266
+Water Pollution Data 267,Environment,CSV,2558,960,1.8,Great detail,South America,45â54,2023-04-18 10:08:25,267
+Expenditure Tracking 268,Finance,JSON,3199,83,1.2,Very useful,Europe,25â34,2023-12-07 09:55:01,268
+Deforestation Rates 269,Environment,Excel,3959,1297,2.0,Excellent,North America,45â54,2023-01-03 10:45:06,269
+Commute Times 270,Transportation,Excel,1483,322,3.3,Very useful,Australia,35â44,2023-08-13 00:14:31,270
+National Budget Reports 271,Finance,XML,3216,1312,2.6,Needs update,Asia,35â44,2023-10-07 09:39:00,271
+Tax Revenue Analysis 272,Finance,JSON,1908,1680,4.9,Very useful,Africa,55â64,2023-08-13 19:46:49,272
+Public Transport Statistics 273,Transportation,JSON,3200,1848,2.4,Great detail,Australia,55â64,2023-07-08 10:04:22,273
+Deforestation Rates 274,Environment,CSV,929,343,3.8,Needs update,North America,35â44,2023-09-19 12:14:04,274
+Commute Times 275,Transportation,CSV,2420,130,1.0,Very useful,Africa,18â24,2023-10-24 15:35:14,275
+Crime Statistics 276,Public Safety,XML,1533,122,3.2,Great detail,Australia,35â44,2023-03-06 17:59:08,276
+Tax Revenue Analysis 277,Finance,JSON,1725,793,3.9,Great detail,Africa,35â44,2023-04-02 18:47:59,277
+Waste Management 278,Environment,XML,2860,800,1.3,Excellent,Australia,18â24,2023-03-12 16:44:29,278
+Mental Health Trends 279,Health,Excel,759,1465,2.4,Great detail,North America,18â24,2023-11-14 20:32:56,279
+Community Policing 280,Public Safety,JSON,3107,1469,1.8,Average,North America,35â44,2023-03-07 14:21:42,280
+Air Quality Levels 281,Environment,Excel,3133,1919,2.2,Very useful,Africa,25â34,2023-08-27 15:22:39,281
+Tax Revenue Analysis 282,Finance,XML,4839,1709,1.4,Needs update,Africa,25â34,2023-12-22 18:24:29,282
+Expenditure Tracking 283,Finance,CSV,3945,1518,1.6,Very useful,Africa,25â34,2023-09-11 15:28:48,283
+Economic Growth Metrics 284,Finance,JSON,2532,337,3.6,Needs update,Africa,25â34,2023-04-14 16:56:26,284
+Disease Outbreaks 285,Health,JSON,3278,1451,1.1,Needs update,Europe,25â34,2023-08-24 17:51:04,285
+Crime Statistics 286,Public Safety,XML,2098,1658,3.9,Average,South America,45â54,2023-10-13 15:14:31,286
+Vehicle Emissions 287,Transportation,JSON,3107,1802,1.5,Very useful,Africa,55â64,2023-05-07 06:00:18,287
+Expenditure Tracking 288,Finance,JSON,1001,1326,4.9,Very useful,South America,45â54,2023-01-19 16:43:02,288
+Road Safety Analysis 289,Transportation,XML,4919,731,3.5,Average,Africa,25â34,2023-02-26 08:21:51,289
+Green Energy Usage 290,Environment,Excel,2194,805,1.6,Needs update,South America,25â34,2023-10-21 15:21:29,290
+School Enrollment Data 291,Education,CSV,4005,105,2.0,Not relevant,Asia,25â34,2023-10-16 21:11:04,291
+Water Pollution Data 292,Environment,JSON,2252,435,3.5,Average,Australia,35â44,2023-01-17 08:32:42,292
+Fire Incidents 293,Public Safety,Excel,4899,798,1.7,Needs update,Africa,25â34,2023-08-06 10:11:46,293
+Mental Health Trends 294,Health,Excel,776,361,4.4,Excellent,Europe,25â34,2023-06-08 20:34:35,294
+Teacher Distribution 295,Education,JSON,108,487,4.6,Average,Africa,65+,2023-01-16 20:01:50,295
+Air Quality Levels 296,Environment,XML,1210,1957,3.6,Great detail,South America,35â44,2023-10-05 18:04:10,296
+Tax Revenue Analysis 297,Finance,CSV,942,264,3.6,Not relevant,Africa,25â34,2023-11-04 19:06:19,297
+Student Performance 298,Education,JSON,3849,1888,3.7,Needs update,South America,35â44,2023-06-24 19:24:59,298
+Deforestation Rates 299,Environment,Excel,2131,161,2.8,Needs update,Europe,35â44,2023-03-03 09:30:25,299
+Teacher Distribution 300,Education,JSON,1520,856,4.2,Very useful,South America,35â44,2023-01-27 17:58:05,300
+COVID-19 Data 301,Health,JSON,3323,1084,2.9,Average,Asia,35â44,2023-09-18 15:55:32,301
+Hospital Admissions 302,Health,JSON,2138,830,1.1,Not relevant,Europe,25â34,2023-04-18 17:04:25,302
+Fire Incidents 303,Public Safety,Excel,4719,728,4.7,Very useful,Australia,18â24,2023-02-15 16:46:20,303
+Mental Health Trends 304,Health,XML,4526,1670,1.4,Average,Australia,45â54,2023-10-03 20:33:23,304
+Inflation Trends 305,Finance,JSON,4550,11,1.3,Great detail,Asia,25â34,2023-01-25 18:10:05,305
+Crime Statistics 306,Public Safety,XML,2265,329,3.3,Needs update,Asia,45â54,2023-07-21 08:13:00,306
+Emergency Response Times 307,Public Safety,XML,314,1024,1.5,Not relevant,North America,25â34,2023-06-18 19:55:20,307
+Expenditure Tracking 308,Finance,JSON,768,706,1.4,Very useful,North America,25â34,2023-12-13 09:44:27,308
+Disaster Recovery 309,Public Safety,XML,4849,191,3.5,Average,Europe,18â24,2023-08-02 12:41:37,309
+Green Energy Usage 310,Environment,CSV,4978,476,2.7,Average,Asia,35â44,2023-02-13 11:03:50,310
+COVID-19 Data 311,Health,JSON,3047,1576,4.1,Great detail,Africa,45â54,2023-11-19 04:14:50,311
+Literacy Rates 312,Education,Excel,1900,1973,2.9,Great detail,Asia,45â54,2023-12-24 00:44:43,312
+Expenditure Tracking 313,Finance,JSON,1858,833,3.4,Average,Africa,25â34,2023-12-07 22:47:46,313
+Economic Growth Metrics 314,Finance,XML,976,1445,3.1,Very useful,South America,55â64,2023-02-27 11:21:45,314
+Disease Outbreaks 315,Health,Excel,431,1412,3.6,Excellent,Europe,18â24,2023-06-19 17:55:27,315
+Traffic Data 316,Transportation,Excel,3530,705,1.9,Average,Asia,18â24,2023-03-13 09:54:55,316
+Literacy Rates 317,Education,XML,2825,1507,1.1,Excellent,Australia,25â34,2023-03-06 19:48:42,317
+Waste Management 318,Environment,CSV,3482,258,4.3,Average,Australia,25â34,2023-03-24 12:42:13,318
+Economic Growth Metrics 319,Finance,Excel,1043,573,4.6,Needs update,Asia,35â44,2023-01-28 17:18:43,319
+Teacher Distribution 320,Education,XML,3744,1190,1.5,Very useful,Europe,25â34,2023-09-03 18:41:29,320
+COVID-19 Data 321,Health,CSV,1805,755,2.7,Excellent,Asia,45â54,2023-11-17 19:03:56,321
+Literacy Rates 322,Education,Excel,1672,511,1.6,Great detail,South America,25â34,2023-03-17 08:40:04,322
+Student Performance 323,Education,CSV,1009,665,3.2,Not relevant,Asia,35â44,2023-01-28 15:53:37,323
+Economic Growth Metrics 324,Finance,JSON,1841,1683,4.4,Needs update,North America,35â44,2023-07-10 10:51:59,324
+Commute Times 325,Transportation,CSV,4173,1646,2.9,Needs update,Europe,25â34,2023-07-24 12:43:01,325
+Traffic Data 326,Transportation,XML,1759,182,2.7,Needs update,Europe,45â54,2023-09-07 12:48:07,326
+Emergency Response Times 327,Public Safety,XML,223,1275,4.2,Great detail,South America,45â54,2023-01-12 02:37:40,327
+Vaccination Statistics 328,Health,CSV,3795,1165,1.6,Not relevant,Australia,25â34,2023-04-07 10:32:51,328
+Disaster Recovery 329,Public Safety,Excel,148,545,4.0,Excellent,Europe,25â34,2023-10-09 19:26:07,329
+Teacher Distribution 330,Education,XML,4609,1241,2.8,Very useful,South America,18â24,2023-01-21 15:50:56,330
+COVID-19 Data 331,Health,CSV,1525,1863,1.5,Excellent,North America,45â54,2023-09-12 16:35:54,331
+Water Pollution Data 332,Environment,CSV,3633,1443,1.1,Average,Australia,35â44,2023-11-07 11:19:28,332
+Expenditure Tracking 333,Finance,CSV,3097,1453,4.1,Excellent,Asia,35â44,2023-05-17 10:54:12,333
+Mental Health Trends 334,Health,XML,537,522,1.2,Needs update,Europe,18â24,2023-07-16 19:09:36,334
+Teacher Distribution 335,Education,JSON,3035,1838,1.4,Not relevant,Europe,45â54,2023-01-20 11:13:15,335
+Crime Statistics 336,Public Safety,JSON,2349,1767,3.2,Not relevant,South America,45â54,2023-09-19 18:13:56,336
+Tax Revenue Analysis 337,Finance,JSON,2339,1630,2.7,Average,Europe,25â34,2023-02-08 09:11:54,337
+Student Performance 338,Education,CSV,4051,1725,4.5,Very useful,Europe,25â34,2023-09-28 16:20:35,338
+Disaster Recovery 339,Public Safety,XML,1967,1683,4.8,Needs update,Europe,35â44,2023-01-09 14:50:48,339
+Inflation Trends 340,Finance,CSV,3106,1849,3.9,Very useful,South America,25â34,2023-02-26 01:21:23,340
+Air Quality Levels 341,Environment,JSON,2440,1949,1.6,Great detail,North America,45â54,2023-04-14 14:53:53,341
+Vehicle Emissions 342,Transportation,XML,2977,472,4.7,Great detail,North America,25â34,2023-05-21 14:43:17,342
+Expenditure Tracking 343,Finance,Excel,2454,68,3.5,Great detail,South America,25â34,2023-02-09 09:35:11,343
+Road Safety Analysis 344,Transportation,XML,2595,1200,1.3,Needs update,South America,18â24,2023-01-05 18:13:57,344
+Green Energy Usage 345,Environment,XML,2235,1825,1.3,Very useful,Europe,35â44,2023-06-06 11:58:00,345
+National Budget Reports 346,Finance,CSV,3308,276,3.3,Not relevant,Australia,35â44,2023-12-26 13:03:06,346
+Emergency Response Times 347,Public Safety,Excel,4621,156,1.1,Average,Australia,45â54,2023-01-01 20:09:16,347
+Public Transport Statistics 348,Transportation,CSV,3515,661,3.6,Very useful,Asia,18â24,2023-07-13 15:57:06,348
+Education Funding 349,Education,XML,964,477,3.8,Excellent,Europe,25â34,2023-06-12 16:59:08,349
+Community Policing 350,Public Safety,CSV,1554,1918,2.8,Average,South America,45â54,2023-10-21 18:53:53,350
+School Enrollment Data 351,Education,CSV,3060,231,3.6,Not relevant,South America,35â44,2023-12-27 18:00:35,351
+Hospital Admissions 352,Health,XML,321,559,1.6,Great detail,Europe,35â44,2023-07-11 15:01:53,352
+Waste Management 353,Environment,JSON,4664,1601,3.3,Great detail,South America,18â24,2023-12-03 20:30:58,353
+Economic Growth Metrics 354,Finance,Excel,3791,1564,3.9,Average,Asia,25â34,2023-12-13 06:58:35,354
+Disease Outbreaks 355,Health,XML,649,206,2.3,Needs update,South America,45â54,2023-07-16 11:52:21,355
+National Budget Reports 356,Finance,Excel,920,820,2.1,Very useful,Asia,18â24,2023-12-27 20:09:00,356
+Water Pollution Data 357,Environment,JSON,288,1334,2.5,Needs update,South America,35â44,2023-12-26 09:27:33,357
+Vaccination Statistics 358,Health,Excel,4761,2000,1.8,Excellent,South America,35â44,2023-04-07 20:12:10,358
+Deforestation Rates 359,Environment,Excel,3922,136,3.3,Average,Australia,25â34,2023-05-12 16:41:31,359
+Green Energy Usage 360,Environment,Excel,2798,456,1.0,Great detail,Africa,25â34,2023-01-21 02:39:49,360
+Air Quality Levels 361,Environment,XML,3084,905,3.2,Not relevant,South America,25â34,2023-07-14 20:45:13,361
+Vehicle Emissions 362,Transportation,Excel,2028,1194,2.4,Very useful,North America,18â24,2023-12-23 11:53:06,362
+Fire Incidents 363,Public Safety,XML,3860,1712,2.4,Very useful,Europe,55â64,2023-12-27 18:57:56,363
+Deforestation Rates 364,Environment,JSON,4058,605,4.9,Very useful,Asia,45â54,2023-11-21 17:35:40,364
+Community Policing 365,Public Safety,Excel,3338,1147,3.9,Very useful,Australia,25â34,2023-12-13 09:04:53,365
+Traffic Data 366,Transportation,CSV,2123,1397,1.0,Not relevant,Europe,45â54,2023-03-25 18:24:53,366
+Emergency Response Times 367,Public Safety,JSON,4468,1062,3.1,Average,Asia,25â34,2023-09-09 03:44:08,367
+Vaccination Statistics 368,Health,JSON,1466,1233,4.3,Great detail,South America,45â54,2023-11-21 01:44:40,368
+Education Funding 369,Education,XML,4223,1578,4.3,Not relevant,Europe,18â24,2023-11-06 20:30:23,369
+Disease Outbreaks 370,Health,CSV,2288,1507,4.2,Needs update,North America,25â34,2023-04-25 11:14:30,370
+Air Quality Levels 371,Environment,JSON,72,1145,4.6,Not relevant,Europe,18â24,2023-12-23 11:21:43,371
+Water Pollution Data 372,Environment,Excel,421,1251,1.9,Very useful,Australia,35â44,2023-12-23 10:51:50,372
+Public Transport Statistics 373,Transportation,Excel,1133,86,2.3,Great detail,Africa,65+,2023-05-09 14:22:52,373
+Mental Health Trends 374,Health,XML,3965,219,1.2,Very useful,North America,25â34,2023-05-28 11:32:13,374
+Community Policing 375,Public Safety,JSON,3008,1086,3.6,Not relevant,Africa,55â64,2023-08-27 21:13:58,375
+Crime Statistics 376,Public Safety,XML,3345,1986,4.9,Needs update,Europe,18â24,2023-10-24 20:09:02,376
+Water Pollution Data 377,Environment,Excel,4273,579,3.5,Needs update,Asia,25â34,2023-04-09 15:18:22,377
+Expenditure Tracking 378,Finance,JSON,179,418,1.5,Great detail,North America,35â44,2023-07-16 22:23:59,378
+Economic Growth Metrics 379,Finance,XML,2660,562,2.2,Great detail,Asia,25â34,2023-06-25 20:10:55,379
+Green Energy Usage 380,Environment,Excel,290,1939,3.6,Very useful,South America,18â24,2023-10-17 12:00:43,380
+National Budget Reports 381,Finance,XML,1509,1700,4.3,Excellent,Asia,25â34,2023-03-06 07:49:23,381
+Emergency Response Times 382,Public Safety,JSON,1023,1628,2.1,Needs update,Asia,25â34,2023-02-11 16:10:05,382
+Expenditure Tracking 383,Finance,XML,2042,390,1.3,Average,Africa,35â44,2023-06-03 20:57:48,383
+Road Safety Analysis 384,Transportation,XML,2088,853,2.4,Not relevant,North America,18â24,2023-02-09 06:02:30,384
+Green Energy Usage 385,Environment,Excel,302,72,1.5,Average,Asia,35â44,2023-02-16 07:15:16,385
+National Budget Reports 386,Finance,Excel,227,1398,2.3,Average,Africa,35â44,2023-05-16 05:15:56,386
+Emergency Response Times 387,Public Safety,Excel,2991,472,4.1,Not relevant,Africa,45â54,2023-01-22 11:55:34,387
+Waste Management 388,Environment,CSV,134,1874,3.5,Very useful,Africa,55â64,2023-04-21 15:01:53,388
+Education Funding 389,Education,CSV,1502,467,4.4,Great detail,South America,25â34,2023-02-22 10:03:06,389
+Community Policing 390,Public Safety,JSON,839,16,4.5,Great detail,Asia,45â54,2023-02-23 05:06:01,390
+Air Quality Levels 391,Environment,Excel,4877,1705,4.0,Needs update,North America,18â24,2023-03-24 14:51:24,391
+Emergency Response Times 392,Public Safety,XML,386,527,4.4,Excellent,South America,35â44,2023-11-09 20:14:16,392
+Student Performance 393,Education,JSON,4423,331,2.0,Average,Europe,35â44,2023-03-05 19:57:55,393
+Disaster Recovery 394,Public Safety,CSV,1066,1486,1.0,Average,Australia,25â34,2023-01-24 16:00:50,394
+Teacher Distribution 395,Education,JSON,1457,127,3.3,Great detail,Africa,25â34,2023-06-04 01:35:58,395
+National Budget Reports 396,Finance,Excel,1039,721,3.8,Excellent,Africa,65+,2023-06-06 16:46:30,396
+Tax Revenue Analysis 397,Finance,JSON,1901,513,2.1,Great detail,Australia,35â44,2023-09-28 08:33:39,397
+Public Transport Statistics 398,Transportation,JSON,1167,1931,2.8,Very useful,Australia,25â34,2023-10-28 16:16:28,398
+Road Safety Analysis 399,Transportation,XML,4135,1339,2.4,Very useful,South America,25â34,2023-10-28 05:28:17,399
+Inflation Trends 400,Finance,JSON,597,1257,1.3,Excellent,Australia,35â44,2023-07-07 15:50:24,400
+School Enrollment Data 401,Education,CSV,3209,687,1.5,Needs update,North America,25â34,2023-07-12 08:38:43,401
+Hospital Admissions 402,Health,Excel,1802,1050,1.1,Not relevant,Africa,25â34,2023-06-24 15:01:23,402
+Waste Management 403,Environment,JSON,425,800,1.3,Average,Europe,25â34,2023-05-17 05:16:14,403
+Economic Growth Metrics 404,Finance,XML,539,1162,4.5,Excellent,South America,55â64,2023-02-28 00:30:30,404
+Green Energy Usage 405,Environment,Excel,1881,338,3.4,Not relevant,Australia,25â34,2023-08-20 14:25:15,405
+COVID-19 Data 406,Health,Excel,2059,297,4.2,Great detail,Australia,35â44,2023-09-16 14:58:41,406
+Water Pollution Data 407,Environment,CSV,4716,1598,3.2,Great detail,North America,25â34,2023-02-14 10:13:55,407
+Vaccination Statistics 408,Health,JSON,277,936,2.5,Average,Africa,55â64,2023-08-23 14:04:15,408
+Disaster Recovery 409,Public Safety,JSON,4975,1435,1.2,Excellent,North America,25â34,2023-09-20 04:20:42,409
+Community Policing 410,Public Safety,JSON,4791,297,4.3,Average,Australia,55â64,2023-09-06 15:10:40,410
+COVID-19 Data 411,Health,JSON,4045,950,4.5,Average,Asia,35â44,2023-09-18 19:06:20,411
+Hospital Admissions 412,Health,XML,636,864,1.8,Excellent,Africa,18â24,2023-07-18 12:34:43,412
+Expenditure Tracking 413,Finance,CSV,4707,459,3.5,Needs update,North America,65+,2023-10-07 20:49:54,413
+Economic Growth Metrics 414,Finance,CSV,3208,1622,3.1,Average,Europe,45â54,2023-11-26 13:02:38,414
+Green Energy Usage 415,Environment,Excel,4291,49,2.1,Not relevant,Asia,55â64,2023-07-09 18:41:01,415
+Air Quality Levels 416,Environment,JSON,112,381,1.2,Needs update,Australia,25â34,2023-01-23 09:30:19,416
+Emergency Response Times 417,Public Safety,XML,2796,437,2.7,Not relevant,South America,35â44,2023-03-24 13:46:48,417
+Vaccination Statistics 418,Health,CSV,1399,356,3.8,Needs update,Asia,35â44,2023-02-18 21:14:03,418
+Disaster Recovery 419,Public Safety,XML,1011,1862,4.6,Needs update,Australia,25â34,2023-05-26 13:00:57,419
+Inflation Trends 420,Finance,JSON,1102,1764,1.8,Excellent,Australia,45â54,2023-09-18 20:43:58,420
+Traffic Data 421,Transportation,CSV,3781,1048,1.6,Great detail,Europe,45â54,2023-10-20 12:55:38,421
+Water Pollution Data 422,Environment,CSV,4945,1930,2.6,Not relevant,Africa,25â34,2023-08-21 06:06:21,422
+Fire Incidents 423,Public Safety,CSV,4465,924,2.0,Very useful,South America,25â34,2023-06-22 18:11:26,423
+Education Funding 424,Education,Excel,4456,1862,4.3,Average,Australia,35â44,2023-12-11 09:10:13,424
+Community Policing 425,Public Safety,JSON,2982,600,3.1,Great detail,Asia,55â64,2023-08-03 08:17:21,425
+Crime Statistics 426,Public Safety,Excel,4080,131,2.6,Average,Africa,25â34,2023-07-12 09:09:58,426
+Hospital Admissions 427,Health,JSON,447,1676,1.2,Needs update,North America,55â64,2023-09-13 09:08:58,427
+Waste Management 428,Environment,Excel,2784,967,4.9,Great detail,North America,25â34,2023-05-03 16:24:44,428
+Economic Growth Metrics 429,Finance,XML,2371,975,2.2,Great detail,South America,25â34,2023-08-06 03:05:35,429
+Inflation Trends 430,Finance,XML,3792,1163,1.2,Average,Europe,35â44,2023-08-11 14:09:11,430
+Air Quality Levels 431,Environment,JSON,4613,1119,2.9,Needs update,North America,35â44,2023-10-02 17:49:51,431
+Tax Revenue Analysis 432,Finance,XML,1706,1313,2.9,Excellent,Africa,55â64,2023-01-14 12:15:26,432
+Expenditure Tracking 433,Finance,CSV,3327,1034,3.6,Very useful,Australia,25â34,2023-03-22 09:04:19,433
+Economic Growth Metrics 434,Finance,JSON,324,1123,4.4,Needs update,Asia,35â44,2023-03-10 10:03:35,434
+Disease Outbreaks 435,Health,Excel,2947,701,4.6,Needs update,Europe,35â44,2023-09-01 20:57:14,435
+National Budget Reports 436,Finance,Excel,3576,1921,2.0,Not relevant,Africa,35â44,2023-10-25 11:26:49,436
+Tax Revenue Analysis 437,Finance,JSON,3049,607,4.8,Excellent,Asia,35â44,2023-03-04 18:41:06,437
+Expenditure Tracking 438,Finance,Excel,1327,404,1.9,Very useful,Australia,25â34,2023-11-16 10:10:04,438
+Deforestation Rates 439,Environment,XML,2461,1644,4.0,Very useful,North America,25â34,2023-05-13 18:31:01,439
+Community Policing 440,Public Safety,Excel,632,825,1.1,Needs update,Asia,45â54,2023-10-13 12:12:52,440
+Traffic Data 441,Transportation,CSV,2747,1357,3.8,Not relevant,Asia,25â34,2023-04-22 13:07:27,441
+Tax Revenue Analysis 442,Finance,Excel,2893,374,2.5,Very useful,Asia,35â44,2023-02-07 21:04:47,442
+Expenditure Tracking 443,Finance,CSV,2194,886,3.1,Not relevant,Africa,35â44,2023-10-07 13:58:25,443
+Economic Growth Metrics 444,Finance,JSON,3163,1235,1.5,Not relevant,South America,25â34,2023-09-09 11:40:16,444
+Green Energy Usage 445,Environment,XML,579,251,1.1,Average,Asia,35â44,2023-12-12 20:44:51,445
+COVID-19 Data 446,Health,JSON,4103,157,2.7,Great detail,Africa,35â44,2023-04-14 10:05:25,446
+Tax Revenue Analysis 447,Finance,XML,1481,1464,1.6,Not relevant,Asia,45â54,2023-04-17 09:35:24,447
+Vaccination Statistics 448,Health,XML,3229,1175,5.0,Excellent,North America,25â34,2023-09-21 11:48:22,448
+Disaster Recovery 449,Public Safety,CSV,4045,1149,4.9,Not relevant,Europe,25â34,2023-12-19 19:00:07,449
+Green Energy Usage 450,Environment,JSON,4749,1478,2.2,Not relevant,North America,35â44,2023-12-01 18:01:17,450
+COVID-19 Data 451,Health,Excel,4190,325,3.4,Great detail,Africa,35â44,2023-11-04 11:49:14,451
+Emergency Response Times 452,Public Safety,XML,1916,305,1.8,Very useful,Africa,18â24,2023-06-20 05:35:40,452
+Vaccination Statistics 453,Health,CSV,431,1669,3.6,Excellent,Europe,25â34,2023-07-18 20:38:49,453
+Disaster Recovery 454,Public Safety,Excel,4247,606,3.1,Great detail,Australia,18â24,2023-10-20 21:23:05,454
+Inflation Trends 455,Finance,XML,4744,1585,2.4,Needs update,Africa,25â34,2023-06-08 15:46:15,455
+Crime Statistics 456,Public Safety,JSON,2604,626,1.4,Excellent,Asia,45â54,2023-07-15 08:27:20,456
+Literacy Rates 457,Education,XML,1347,1682,4.6,Very useful,Europe,18â24,2023-11-07 15:29:05,457
+Waste Management 458,Environment,CSV,3582,1992,3.4,Very useful,Australia,55â64,2023-07-19 20:23:24,458
+Road Safety Analysis 459,Transportation,XML,874,1914,1.6,Needs update,Asia,55â64,2023-02-14 13:33:42,459
+Disease Outbreaks 460,Health,JSON,4817,1587,4.5,Great detail,Australia,25â34,2023-07-05 04:46:16,460
+Crime Statistics 461,Public Safety,XML,2110,206,1.9,Great detail,Asia,25â34,2023-01-16 08:07:16,461
+Tax Revenue Analysis 462,Finance,CSV,3863,378,2.7,Average,Europe,25â34,2023-03-26 16:20:23,462
+Vaccination Statistics 463,Health,XML,1968,99,4.6,Not relevant,Europe,25â34,2023-03-19 09:52:37,463
+Economic Growth Metrics 464,Finance,JSON,3640,1536,1.4,Very useful,South America,35â44,2023-08-20 15:58:55,464
+Green Energy Usage 465,Environment,CSV,452,1374,4.2,Excellent,South America,18â24,2023-01-12 08:53:44,465
+COVID-19 Data 466,Health,JSON,4690,199,2.3,Great detail,Australia,35â44,2023-11-16 10:32:20,466
+Vehicle Emissions 467,Transportation,XML,880,945,3.0,Not relevant,Africa,25â34,2023-12-28 17:27:44,467
+Expenditure Tracking 468,Finance,XML,1450,1515,3.0,Excellent,North America,35â44,2023-10-02 16:50:41,468
+Economic Growth Metrics 469,Finance,JSON,883,36,1.4,Very useful,Africa,18â24,2023-12-12 13:08:22,469
+Disease Outbreaks 470,Health,JSON,2907,1381,2.9,Average,North America,35â44,2023-11-15 06:35:05,470
+National Budget Reports 471,Finance,CSV,1498,1310,2.0,Not relevant,North America,45â54,2023-04-21 15:13:30,471
+Literacy Rates 472,Education,CSV,709,483,4.3,Average,Africa,35â44,2023-03-12 17:18:51,472
+Waste Management 473,Environment,Excel,1233,1104,3.1,Needs update,Australia,18â24,2023-08-27 11:51:47,473
+Road Safety Analysis 474,Transportation,JSON,3107,198,1.9,Needs update,Australia,35â44,2023-02-27 10:00:27,474
+Teacher Distribution 475,Education,CSV,805,674,4.3,Excellent,Asia,45â54,2023-09-10 12:01:30,475
+School Enrollment Data 476,Education,JSON,658,136,2.6,Great detail,South America,25â34,2023-09-24 20:22:08,476
+Literacy Rates 477,Education,CSV,2290,566,3.5,Needs update,North America,18â24,2023-06-27 14:50:46,477
+Waste Management 478,Environment,CSV,1063,313,2.1,Very useful,South America,25â34,2023-12-28 17:00:44,478
+Disaster Recovery 479,Public Safety,JSON,4572,951,3.7,Great detail,South America,25â34,2023-11-04 11:10:10,479
+Green Energy Usage 480,Environment,JSON,1741,1842,2.8,Great detail,Australia,35â44,2023-06-04 16:27:23,480
+School Enrollment Data 481,Education,CSV,757,1622,2.5,Great detail,Europe,35â44,2023-09-02 16:14:55,481
+Hospital Admissions 482,Health,XML,4345,1944,1.8,Needs update,South America,35â44,2023-07-26 09:34:05,482
+Public Transport Statistics 483,Transportation,XML,867,1209,3.5,Average,Asia,18â24,2023-05-25 08:29:37,483
+Deforestation Rates 484,Environment,CSV,2541,1771,2.4,Average,Africa,25â34,2023-11-28 12:24:44,484
+Green Energy Usage 485,Environment,JSON,1617,1489,2.7,Needs update,Asia,25â34,2023-05-10 16:33:39,485
+Traffic Data 486,Transportation,CSV,1461,1812,3.5,Great detail,Africa,45â54,2023-07-11 19:17:42,486
+Literacy Rates 487,Education,Excel,1264,1541,1.5,Great detail,Asia,25â34,2023-11-19 18:42:34,487
+Waste Management 488,Environment,JSON,4626,1706,3.1,Excellent,Europe,45â54,2023-06-14 16:37:43,488
+Road Safety Analysis 489,Transportation,CSV,1295,380,2.3,Not relevant,Australia,18â24,2023-09-01 18:55:12,489
+Community Policing 490,Public Safety,JSON,767,1380,1.0,Average,Asia,25â34,2023-08-05 11:37:05,490
+COVID-19 Data 491,Health,Excel,356,1952,3.0,Needs update,Africa,18â24,2023-07-03 04:59:59,491
+Vehicle Emissions 492,Transportation,CSV,1120,301,4.6,Very useful,Africa,45â54,2023-05-13 10:31:10,492
+Vaccination Statistics 493,Health,CSV,1095,1077,2.6,Not relevant,Australia,25â34,2023-11-10 11:38:37,493
+Disaster Recovery 494,Public Safety,CSV,1333,1967,1.5,Excellent,North America,25â34,2023-03-14 19:50:03,494
+Teacher Distribution 495,Education,XML,160,1689,3.8,Needs update,Africa,35â44,2023-07-24 15:05:14,495
+Air Quality Levels 496,Environment,XML,3129,893,1.8,Not relevant,Asia,45â54,2023-01-08 12:38:30,496
+Hospital Admissions 497,Health,XML,2541,256,3.3,Not relevant,Australia,35â44,2023-09-12 19:31:55,497
+Student Performance 498,Education,Excel,1544,1464,1.8,Not relevant,Africa,25â34,2023-09-18 02:16:20,498
+Mental Health Trends 499,Health,CSV,684,1236,2.7,Great detail,South America,45â54,2023-01-22 10:53:54,499
+Disease Outbreaks 500,Health,XML,516,1757,3.7,Average,Asia,35â44,2023-08-24 07:44:07,500
+Crime Statistics 501,Public Safety,XML,1309,1534,3.7,Excellent,South America,55â64,2023-06-02 20:45:51,501
+Water Pollution Data 502,Environment,XML,1078,236,3.3,Great detail,Asia,45â54,2023-01-08 21:33:35,502
+Fire Incidents 503,Public Safety,Excel,2145,902,2.4,Excellent,North America,25â34,2023-06-02 13:02:58,503
+Mental Health Trends 504,Health,CSV,210,1394,4.1,Average,Australia,18â24,2023-04-10 18:03:20,504
+Teacher Distribution 505,Education,JSON,1855,1063,3.1,Average,North America,35â44,2023-08-04 13:35:29,505
+Traffic Data 506,Transportation,CSV,4742,1729,4.0,Average,Australia,45â54,2023-11-03 15:06:45,506
+Hospital Admissions 507,Health,JSON,833,1620,3.0,Not relevant,Africa,25â34,2023-05-27 18:34:39,507
+Expenditure Tracking 508,Finance,CSV,2413,1912,3.8,Very useful,South America,45â54,2023-07-04 20:14:27,508
+Mental Health Trends 509,Health,Excel,3620,766,2.9,Great detail,Australia,35â44,2023-10-26 08:39:28,509
+Green Energy Usage 510,Environment,CSV,1280,1597,1.2,Very useful,North America,45â54,2023-11-23 08:08:03,510
+National Budget Reports 511,Finance,JSON,3530,1607,4.0,Great detail,Europe,45â54,2023-03-27 16:26:35,511
+Water Pollution Data 512,Environment,CSV,692,1798,2.8,Great detail,Africa,25â34,2023-06-14 17:19:46,512
+Waste Management 513,Environment,CSV,3113,344,4.4,Not relevant,Australia,35â44,2023-12-19 20:20:26,513
+Disaster Recovery 514,Public Safety,XML,2312,1933,3.5,Average,North America,45â54,2023-02-12 16:35:32,514
+Disease Outbreaks 515,Health,CSV,3451,93,3.9,Very useful,South America,25â34,2023-06-03 09:31:00,515
+National Budget Reports 516,Finance,Excel,3905,446,1.1,Not relevant,Asia,25â34,2023-03-11 05:00:12,516
+Emergency Response Times 517,Public Safety,Excel,2270,84,3.5,Great detail,Europe,25â34,2023-08-07 11:32:30,517
+Expenditure Tracking 518,Finance,Excel,4430,765,2.1,Very useful,Australia,25â34,2023-11-24 12:07:41,518
+Deforestation Rates 519,Environment,Excel,2854,775,1.1,Needs update,Asia,25â34,2023-03-24 08:07:11,519
+Inflation Trends 520,Finance,CSV,1645,1468,1.3,Great detail,North America,55â64,2023-03-26 18:53:25,520
+COVID-19 Data 521,Health,CSV,511,737,4.1,Average,Australia,25â34,2023-05-03 19:29:49,521
+Emergency Response Times 522,Public Safety,CSV,1453,1770,4.5,Excellent,Australia,35â44,2023-11-15 17:08:19,522
+Waste Management 523,Environment,CSV,3461,644,4.2,Average,North America,18â24,2023-10-18 23:30:59,523
+Deforestation Rates 524,Environment,JSON,2716,611,4.4,Very useful,Africa,35â44,2023-04-12 09:24:03,524
+Green Energy Usage 525,Environment,XML,3348,1302,2.3,Average,Africa,25â34,2023-06-11 16:40:23,525
+Crime Statistics 526,Public Safety,CSV,4083,542,4.2,Excellent,North America,35â44,2023-05-11 00:17:26,526
+Vehicle Emissions 527,Transportation,JSON,2589,168,4.0,Average,Australia,25â34,2023-01-12 07:25:25,527
+Expenditure Tracking 528,Finance,Excel,2726,269,2.0,Average,Africa,25â34,2023-12-20 10:11:37,528
+Disaster Recovery 529,Public Safety,Excel,3339,1208,2.6,Not relevant,Asia,55â64,2023-02-03 09:30:12,529
+Commute Times 530,Transportation,Excel,598,1136,1.2,Great detail,Europe,25â34,2023-08-18 12:07:49,530
+National Budget Reports 531,Finance,Excel,4356,1604,2.2,Needs update,South America,25â34,2023-04-21 01:25:00,531
+Emergency Response Times 532,Public Safety,Excel,2061,231,4.9,Not relevant,North America,25â34,2023-05-20 04:38:15,532
+Public Transport Statistics 533,Transportation,Excel,2280,1539,1.3,Excellent,North America,45â54,2023-10-24 09:05:23,533
+Economic Growth Metrics 534,Finance,Excel,571,158,3.8,Very useful,Africa,18â24,2023-05-01 18:05:39,534
+Community Policing 535,Public Safety,XML,4909,339,2.7,Needs update,Europe,35â44,2023-11-23 13:09:54,535
+Crime Statistics 536,Public Safety,CSV,4154,1697,4.2,Very useful,Asia,35â44,2023-09-08 14:32:31,536
+Emergency Response Times 537,Public Safety,XML,2316,686,2.1,Average,Asia,35â44,2023-10-28 14:48:55,537
+Vaccination Statistics 538,Health,XML,4377,624,2.6,Great detail,Europe,45â54,2023-05-07 05:07:29,538
+Road Safety Analysis 539,Transportation,CSV,2256,1517,1.6,Needs update,Australia,35â44,2023-04-27 12:57:59,539
+Disease Outbreaks 540,Health,JSON,440,1899,1.0,Excellent,Asia,25â34,2023-04-25 17:00:40,540
+National Budget Reports 541,Finance,JSON,270,715,2.3,Excellent,Europe,18â24,2023-11-13 20:09:49,541
+Vehicle Emissions 542,Transportation,XML,1452,144,1.7,Great detail,Asia,35â44,2023-07-19 13:56:27,542
+Expenditure Tracking 543,Finance,CSV,2835,1677,4.0,Very useful,Europe,25â34,2023-10-02 18:10:06,543
+Mental Health Trends 544,Health,XML,4412,167,2.6,Not relevant,South America,35â44,2023-09-05 08:07:30,544
+Teacher Distribution 545,Education,CSV,489,685,4.5,Very useful,South America,35â44,2023-03-26 03:56:06,545
+School Enrollment Data 546,Education,CSV,4895,1948,4.4,Excellent,Asia,35â44,2023-01-02 12:48:29,546
+Water Pollution Data 547,Environment,XML,1813,614,4.0,Not relevant,Africa,45â54,2023-01-13 09:10:06,547
+Fire Incidents 548,Public Safety,JSON,3148,851,4.8,Not relevant,Australia,18â24,2023-02-17 18:03:45,548
+Economic Growth Metrics 549,Finance,XML,2937,1374,2.3,Not relevant,Asia,35â44,2023-03-05 20:10:23,549
+Disease Outbreaks 550,Health,XML,3959,141,3.5,Not relevant,Australia,25â34,2023-09-25 17:30:10,550
+National Budget Reports 551,Finance,JSON,1493,567,3.8,Very useful,Europe,18â24,2023-01-04 11:18:25,551
+Hospital Admissions 552,Health,Excel,1094,1224,2.4,Very useful,North America,55â64,2023-02-28 15:34:32,552
+Student Performance 553,Education,Excel,1063,250,3.3,Needs update,Australia,35â44,2023-05-25 23:32:51,553
+Economic Growth Metrics 554,Finance,CSV,3189,1502,1.5,Average,South America,35â44,2023-10-21 15:43:37,554
+Teacher Distribution 555,Education,JSON,2651,1099,2.5,Excellent,Europe,55â64,2023-07-12 14:30:35,555
+School Enrollment Data 556,Education,Excel,4566,1214,1.1,Not relevant,Africa,35â44,2023-05-07 06:28:26,556
+Vehicle Emissions 557,Transportation,JSON,2789,596,3.2,Excellent,Australia,25â34,2023-01-14 15:24:23,557
+Fire Incidents 558,Public Safety,JSON,931,1307,4.8,Needs update,Asia,45â54,2023-07-19 13:52:39,558
+Deforestation Rates 559,Environment,CSV,4446,1509,1.2,Excellent,Australia,25â34,2023-05-10 15:03:26,559
+Commute Times 560,Transportation,XML,1704,89,3.4,Not relevant,South America,35â44,2023-04-02 22:03:57,560
+National Budget Reports 561,Finance,XML,1557,1955,2.4,Average,North America,45â54,2023-10-27 18:29:27,561
+Tax Revenue Analysis 562,Finance,CSV,1476,296,4.4,Very useful,South America,55â64,2023-02-06 14:14:41,562
+Waste Management 563,Environment,CSV,2555,779,2.8,Average,Australia,35â44,2023-11-07 11:10:37,563
+Deforestation Rates 564,Environment,JSON,1809,1161,1.9,Not relevant,Asia,35â44,2023-02-12 18:30:32,564
+Inflation Trends 565,Finance,Excel,3579,646,1.3,Very useful,South America,55â64,2023-03-12 13:44:16,565
+Traffic Data 566,Transportation,JSON,680,741,1.4,Very useful,Europe,18â24,2023-07-08 07:37:27,566
+Literacy Rates 567,Education,XML,2759,1780,3.0,Great detail,Europe,25â34,2023-03-28 05:17:29,567
+Student Performance 568,Education,XML,2164,1045,2.4,Great detail,Asia,25â34,2023-03-12 14:58:49,568
+Education Funding 569,Education,JSON,2150,1707,2.3,Average,North America,55â64,2023-03-11 20:25:13,569
+Green Energy Usage 570,Environment,Excel,906,51,3.2,Excellent,North America,25â34,2023-09-25 11:12:17,570
+Air Quality Levels 571,Environment,CSV,2389,1422,1.6,Not relevant,Europe,35â44,2023-04-09 13:32:54,571
+Water Pollution Data 572,Environment,XML,928,1436,3.7,Great detail,Africa,25â34,2023-04-25 18:08:52,572
+Student Performance 573,Education,Excel,1794,400,4.3,Great detail,Europe,65+,2023-07-13 08:34:19,573
+Mental Health Trends 574,Health,Excel,3419,1250,1.3,Very useful,Africa,35â44,2023-09-06 03:20:08,574
+Disease Outbreaks 575,Health,Excel,751,762,1.3,Average,South America,35â44,2023-07-25 07:31:21,575
+COVID-19 Data 576,Health,XML,3106,1326,4.3,Excellent,Africa,35â44,2023-06-22 08:28:39,576
+Water Pollution Data 577,Environment,Excel,2411,638,1.5,Great detail,North America,35â44,2023-07-08 12:55:40,577
+Fire Incidents 578,Public Safety,XML,1440,1111,3.2,Excellent,Australia,35â44,2023-12-08 09:43:03,578
+Road Safety Analysis 579,Transportation,JSON,599,271,2.2,Very useful,North America,55â64,2023-11-08 18:57:58,579
+Commute Times 580,Transportation,JSON,1815,928,4.7,Average,South America,25â34,2023-08-21 17:34:49,580
+National Budget Reports 581,Finance,Excel,2973,1820,1.8,Not relevant,North America,25â34,2023-06-26 05:11:43,581
+Tax Revenue Analysis 582,Finance,Excel,4231,393,3.5,Great detail,North America,35â44,2023-02-08 17:19:50,582
+Fire Incidents 583,Public Safety,Excel,2379,612,2.4,Excellent,Asia,35â44,2023-12-28 17:43:30,583
+Disaster Recovery 584,Public Safety,JSON,1862,1445,2.9,Needs update,South America,35â44,2023-11-19 10:17:54,584
+Commute Times 585,Transportation,CSV,104,1062,5.0,Needs update,Europe,35â44,2023-03-14 12:58:10,585
+Air Quality Levels 586,Environment,JSON,265,846,4.8,Needs update,Asia,55â64,2023-09-01 14:58:44,586
+Tax Revenue Analysis 587,Finance,CSV,3163,724,1.5,Not relevant,Australia,35â44,2023-01-01 18:53:29,587
+Fire Incidents 588,Public Safety,CSV,1977,1129,2.6,Excellent,North America,25â34,2023-07-18 18:34:45,588
+Mental Health Trends 589,Health,Excel,2794,111,3.7,Excellent,Asia,45â54,2023-08-08 08:27:17,589
+Community Policing 590,Public Safety,XML,2228,226,1.5,Very useful,Europe,25â34,2023-04-11 23:38:08,590
+Crime Statistics 591,Public Safety,XML,2625,741,3.5,Excellent,South America,35â44,2023-10-13 12:12:13,591
+Hospital Admissions 592,Health,JSON,3090,1407,4.5,Not relevant,Australia,55â64,2023-08-14 17:40:57,592
+Public Transport Statistics 593,Transportation,CSV,468,1192,2.0,Needs update,Africa,25â34,2023-09-15 14:08:40,593
+Education Funding 594,Education,CSV,4381,1687,3.4,Needs update,North America,45â54,2023-10-14 12:52:59,594
+Inflation Trends 595,Finance,Excel,154,1485,3.4,Excellent,Africa,35â44,2023-08-11 10:42:33,595
+School Enrollment Data 596,Education,CSV,4140,412,2.9,Great detail,Asia,55â64,2023-09-10 08:56:38,596
+Hospital Admissions 597,Health,Excel,2426,48,5.0,Average,Australia,25â34,2023-04-01 20:35:04,597
+Vaccination Statistics 598,Health,CSV,2948,53,3.2,Needs update,Africa,18â24,2023-03-27 20:31:55,598
+Deforestation Rates 599,Environment,Excel,1326,442,4.6,Not relevant,Asia,25â34,2023-01-01 15:41:45,599
+Disease Outbreaks 600,Health,JSON,1914,482,1.3,Great detail,Australia,18â24,2023-05-05 08:15:02,600
+Crime Statistics 601,Public Safety,CSV,1165,323,1.4,Average,Africa,25â34,2023-05-04 20:09:40,601
+Vehicle Emissions 602,Transportation,Excel,2402,341,4.9,Average,Australia,35â44,2023-05-22 14:54:08,602
+Fire Incidents 603,Public Safety,XML,3202,1936,5.0,Needs update,Africa,45â54,2023-10-24 16:25:31,603
+Economic Growth Metrics 604,Finance,CSV,4920,1366,1.5,Great detail,Europe,25â34,2023-10-03 05:31:45,604
+Green Energy Usage 605,Environment,XML,4324,1359,2.1,Needs update,Europe,45â54,2023-07-05 11:12:07,605
+Crime Statistics 606,Public Safety,CSV,1054,970,4.6,Great detail,Africa,45â54,2023-09-20 16:26:56,606
+Water Pollution Data 607,Environment,CSV,1927,278,2.1,Great detail,Europe,45â54,2023-06-11 15:56:56,607
+Public Transport Statistics 608,Transportation,CSV,3800,459,1.8,Excellent,South America,35â44,2023-07-21 17:56:52,608
+Mental Health Trends 609,Health,XML,3875,1289,2.9,Needs update,South America,25â34,2023-02-01 16:15:43,609
+Commute Times 610,Transportation,Excel,3941,1096,2.5,Great detail,Australia,45â54,2023-10-21 18:39:16,610
+National Budget Reports 611,Finance,XML,2563,1106,3.1,Needs update,Europe,25â34,2023-03-06 10:46:37,611
+Hospital Admissions 612,Health,CSV,4643,69,2.3,Average,Australia,18â24,2023-11-22 10:19:02,612
+Student Performance 613,Education,XML,2097,139,4.1,Needs update,Africa,45â54,2023-03-21 20:11:39,613
+Education Funding 614,Education,CSV,3271,1402,1.8,Excellent,North America,35â44,2023-01-25 20:42:55,614
+Teacher Distribution 615,Education,JSON,3668,47,3.5,Not relevant,South America,35â44,2023-08-11 07:24:38,615
+Traffic Data 616,Transportation,Excel,4070,1091,4.4,Very useful,North America,25â34,2023-09-14 16:03:55,616
+Literacy Rates 617,Education,XML,4024,408,2.4,Not relevant,Australia,55â64,2023-06-04 11:05:10,617
+Vaccination Statistics 618,Health,CSV,2327,1831,3.5,Not relevant,Africa,35â44,2023-06-01 01:53:48,618
+Deforestation Rates 619,Environment,CSV,3187,550,1.9,Excellent,South America,25â34,2023-05-16 16:03:05,619
+Teacher Distribution 620,Education,XML,4812,989,1.4,Very useful,North America,25â34,2023-05-03 10:58:33,620
+Crime Statistics 621,Public Safety,XML,1145,1751,1.5,Excellent,Europe,45â54,2023-02-04 19:21:44,621
+Emergency Response Times 622,Public Safety,JSON,418,351,3.6,Average,North America,35â44,2023-04-25 10:00:05,622
+Student Performance 623,Education,JSON,1322,476,4.3,Very useful,Australia,35â44,2023-11-16 18:24:36,623
+Economic Growth Metrics 624,Finance,CSV,1287,143,4.0,Not relevant,South America,18â24,2023-02-22 20:36:22,624
+Disease Outbreaks 625,Health,CSV,507,1791,3.9,Needs update,Asia,45â54,2023-01-09 23:58:22,625
+National Budget Reports 626,Finance,CSV,84,1021,4.6,Needs update,North America,25â34,2023-11-03 08:26:54,626
+Emergency Response Times 627,Public Safety,Excel,1912,1968,2.1,Great detail,North America,65+,2023-06-04 12:21:43,627
+Public Transport Statistics 628,Transportation,JSON,3803,361,3.2,Not relevant,North America,45â54,2023-01-15 08:11:24,628
+Deforestation Rates 629,Environment,Excel,1506,1656,3.9,Average,Europe,25â34,2023-10-26 19:29:50,629
+Inflation Trends 630,Finance,JSON,2971,504,2.7,Not relevant,Africa,35â44,2023-10-22 07:02:11,630
+Crime Statistics 631,Public Safety,JSON,3541,1286,4.2,Average,Africa,35â44,2023-07-24 08:30:20,631
+Vehicle Emissions 632,Transportation,Excel,2254,1226,4.7,Great detail,North America,45â54,2023-08-07 08:02:12,632
+Expenditure Tracking 633,Finance,Excel,342,1044,3.9,Needs update,Asia,55â64,2023-06-03 16:58:08,633
+Economic Growth Metrics 634,Finance,Excel,4098,1760,3.4,Average,South America,35â44,2023-08-24 09:04:10,634
+Inflation Trends 635,Finance,JSON,2737,611,3.9,Average,North America,35â44,2023-07-03 14:10:21,635
+Air Quality Levels 636,Environment,CSV,4871,395,3.7,Excellent,Africa,18â24,2023-12-25 11:21:21,636
+Vehicle Emissions 637,Transportation,CSV,4129,277,3.4,Very useful,Africa,18â24,2023-10-27 13:24:18,637
+Vaccination Statistics 638,Health,JSON,4413,1527,1.2,Great detail,Europe,55â64,2023-02-28 20:27:03,638
+Deforestation Rates 639,Environment,JSON,1067,1367,1.7,Very useful,North America,35â44,2023-02-26 20:31:42,639
+Commute Times 640,Transportation,Excel,4646,481,1.8,Great detail,Africa,55â64,2023-08-12 13:53:07,640
+COVID-19 Data 641,Health,Excel,181,720,2.5,Needs update,North America,25â34,2023-02-17 10:34:20,641
+Hospital Admissions 642,Health,Excel,4995,653,1.3,Not relevant,Africa,25â34,2023-02-17 12:56:52,642
+Vaccination Statistics 643,Health,Excel,3559,1368,4.4,Not relevant,Europe,25â34,2023-04-27 08:34:50,643
+Road Safety Analysis 644,Transportation,JSON,4801,769,3.4,Great detail,Australia,25â34,2023-01-09 10:20:36,644
+Commute Times 645,Transportation,CSV,4248,191,4.5,Needs update,Africa,25â34,2023-02-06 09:25:58,645
+Air Quality Levels 646,Environment,XML,1148,1828,1.7,Great detail,Europe,35â44,2023-06-01 19:53:34,646
+Water Pollution Data 647,Environment,Excel,617,1218,2.6,Not relevant,Australia,35â44,2023-04-18 08:10:02,647
+Waste Management 648,Environment,Excel,1690,353,3.3,Very useful,Asia,25â34,2023-03-24 15:48:44,648
+Disaster Recovery 649,Public Safety,CSV,1368,356,1.7,Excellent,Africa,55â64,2023-07-08 14:13:13,649
+Disease Outbreaks 650,Health,JSON,255,1783,3.5,Needs update,South America,25â34,2023-12-19 10:05:58,650
+National Budget Reports 651,Finance,XML,429,1330,2.5,Not relevant,Africa,25â34,2023-12-18 16:05:24,651
+Vehicle Emissions 652,Transportation,CSV,356,723,1.2,Not relevant,Asia,65+,2023-12-21 13:04:09,652
+Student Performance 653,Education,CSV,774,1719,3.9,Great detail,North America,55â64,2023-12-24 03:40:04,653
+Mental Health Trends 654,Health,JSON,1957,873,2.9,Not relevant,Asia,35â44,2023-09-25 13:34:58,654
+Disease Outbreaks 655,Health,JSON,2117,1770,4.7,Needs update,South America,18â24,2023-08-07 12:45:38,655
+COVID-19 Data 656,Health,CSV,443,56,1.8,Needs update,Asia,45â54,2023-06-09 09:04:42,656
+Literacy Rates 657,Education,CSV,2360,1858,4.8,Needs update,Europe,45â54,2023-10-14 17:47:12,657
+Vaccination Statistics 658,Health,JSON,3533,23,4.7,Average,South America,35â44,2023-07-22 18:34:42,658
+Road Safety Analysis 659,Transportation,JSON,3682,1343,4.2,Great detail,Africa,18â24,2023-06-26 15:11:08,659
+Inflation Trends 660,Finance,JSON,4334,496,3.7,Not relevant,Australia,18â24,2023-04-21 17:24:58,660
+School Enrollment Data 661,Education,XML,3926,1479,4.6,Very useful,Asia,25â34,2023-03-06 10:35:24,661
+Emergency Response Times 662,Public Safety,Excel,163,1391,4.7,Great detail,Australia,18â24,2023-06-25 18:08:03,662
+Student Performance 663,Education,CSV,4075,1867,2.2,Very useful,Asia,55â64,2023-08-12 18:15:31,663
+Economic Growth Metrics 664,Finance,CSV,1419,474,3.6,Not relevant,South America,55â64,2023-04-22 09:19:22,664
+Green Energy Usage 665,Environment,JSON,2498,329,5.0,Average,Africa,25â34,2023-04-04 15:48:39,665
+Air Quality Levels 666,Environment,Excel,736,368,4.5,Great detail,North America,45â54,2023-03-18 03:25:55,666
+Water Pollution Data 667,Environment,XML,998,190,1.5,Not relevant,North America,35â44,2023-11-09 10:51:21,667
+Waste Management 668,Environment,CSV,3536,1099,4.9,Great detail,Asia,35â44,2023-04-07 07:26:48,668
+Education Funding 669,Education,CSV,309,654,4.4,Average,Africa,25â34,2023-07-11 14:11:43,669
+Green Energy Usage 670,Environment,XML,3826,1586,4.3,Very useful,Australia,45â54,2023-02-09 01:34:54,670
+Air Quality Levels 671,Environment,CSV,3404,1050,4.8,Very useful,Asia,18â24,2023-06-10 19:43:45,671
+Literacy Rates 672,Education,Excel,3109,687,1.5,Excellent,Europe,25â34,2023-11-09 10:32:13,672
+Student Performance 673,Education,JSON,4911,968,4.6,Excellent,Europe,35â44,2023-01-04 10:42:32,673
+Disaster Recovery 674,Public Safety,CSV,505,386,2.6,Average,Asia,25â34,2023-04-06 11:38:26,674
+Commute Times 675,Transportation,JSON,3519,13,4.5,Very useful,Asia,35â44,2023-08-01 14:12:05,675
+Air Quality Levels 676,Environment,XML,1892,432,3.8,Great detail,North America,65+,2023-04-06 08:30:14,676
+Tax Revenue Analysis 677,Finance,XML,2954,1551,3.4,Not relevant,Asia,18â24,2023-02-23 18:28:45,677
+Public Transport Statistics 678,Transportation,Excel,3301,41,3.1,Excellent,Europe,35â44,2023-07-27 11:06:31,678
+Road Safety Analysis 679,Transportation,CSV,1640,910,3.8,Not relevant,Africa,45â54,2023-03-24 13:04:22,679
+Teacher Distribution 680,Education,JSON,3349,462,2.6,Average,Asia,35â44,2023-10-09 14:15:44,680
+Air Quality Levels 681,Environment,CSV,2573,1995,3.7,Average,Australia,25â34,2023-07-20 14:28:31,681
+Vehicle Emissions 682,Transportation,XML,2080,569,1.2,Needs update,Asia,25â34,2023-10-06 17:55:01,682
+Expenditure Tracking 683,Finance,XML,505,285,4.6,Not relevant,North America,35â44,2023-08-07 18:18:49,683
+Road Safety Analysis 684,Transportation,CSV,4366,1941,2.4,Average,North America,25â34,2023-08-09 23:18:32,684
+Green Energy Usage 685,Environment,Excel,3113,1295,3.8,Great detail,Australia,35â44,2023-10-25 13:16:19,685
+COVID-19 Data 686,Health,XML,3689,505,3.1,Needs update,Africa,45â54,2023-09-08 10:10:57,686
+Literacy Rates 687,Education,Excel,3824,610,4.0,Average,Australia,25â34,2023-01-25 22:35:25,687
+Vaccination Statistics 688,Health,CSV,4523,526,3.4,Great detail,South America,25â34,2023-12-06 16:56:27,688
+Mental Health Trends 689,Health,JSON,3938,357,4.8,Excellent,Australia,35â44,2023-12-01 08:47:28,689
+Teacher Distribution 690,Education,CSV,2366,828,3.6,Great detail,Asia,35â44,2023-03-20 11:28:42,690
+Crime Statistics 691,Public Safety,JSON,3568,288,2.7,Needs update,Asia,18â24,2023-05-21 17:50:10,691
+Emergency Response Times 692,Public Safety,JSON,1504,1543,2.9,Not relevant,Europe,25â34,2023-10-21 11:54:03,692
+Vaccination Statistics 693,Health,JSON,129,1096,3.7,Very useful,North America,18â24,2023-12-25 15:45:10,693
+Road Safety Analysis 694,Transportation,Excel,3741,492,1.9,Not relevant,Africa,55â64,2023-11-23 16:43:13,694
+Commute Times 695,Transportation,CSV,319,376,3.5,Average,Europe,25â34,2023-06-04 18:07:27,695
+National Budget Reports 696,Finance,Excel,4286,1415,1.1,Not relevant,Europe,35â44,2023-01-03 16:28:12,696
+Literacy Rates 697,Education,CSV,4862,886,3.7,Great detail,Europe,35â44,2023-02-04 09:18:56,697
+Public Transport Statistics 698,Transportation,XML,1440,325,4.5,Excellent,North America,18â24,2023-11-20 09:15:22,698
+Road Safety Analysis 699,Transportation,CSV,4921,1386,1.1,Needs update,South America,65+,2023-02-08 15:30:01,699
+Teacher Distribution 700,Education,XML,3609,618,2.0,Average,South America,18â24,2023-10-09 05:19:30,700
+COVID-19 Data 701,Health,CSV,3206,1790,1.1,Not relevant,South America,25â34,2023-06-23 06:51:24,701
+Literacy Rates 702,Education,CSV,4238,1036,1.8,Not relevant,Australia,25â34,2023-07-19 09:14:50,702
+Expenditure Tracking 703,Finance,JSON,125,1770,3.6,Not relevant,Europe,25â34,2023-02-09 20:25:09,703
+Road Safety Analysis 704,Transportation,XML,3753,1430,1.7,Not relevant,South America,55â64,2023-07-27 09:44:49,704
+Commute Times 705,Transportation,XML,2961,622,4.7,Average,Asia,35â44,2023-12-01 15:47:43,705
+Crime Statistics 706,Public Safety,JSON,2550,566,2.5,Needs update,South America,25â34,2023-07-12 12:58:16,706
+Literacy Rates 707,Education,Excel,1953,87,1.1,Needs update,Africa,25â34,2023-09-12 17:21:05,707
+Fire Incidents 708,Public Safety,JSON,1339,1438,3.9,Very useful,South America,18â24,2023-03-10 10:00:39,708
+Economic Growth Metrics 709,Finance,Excel,3456,1824,4.3,Not relevant,Australia,35â44,2023-05-18 10:50:37,709
+Community Policing 710,Public Safety,CSV,1088,1737,4.3,Excellent,Africa,25â34,2023-12-27 14:44:01,710
+COVID-19 Data 711,Health,XML,3543,1606,3.7,Average,Asia,25â34,2023-07-28 17:20:29,711
+Emergency Response Times 712,Public Safety,CSV,4578,1143,1.8,Very useful,North America,35â44,2023-10-26 10:23:03,712
+Expenditure Tracking 713,Finance,XML,2750,1550,3.4,Very useful,South America,18â24,2023-08-16 21:55:24,713
+Road Safety Analysis 714,Transportation,XML,4179,15,4.5,Excellent,Europe,18â24,2023-06-02 12:58:45,714
+Community Policing 715,Public Safety,XML,2545,1517,3.7,Very useful,Europe,35â44,2023-05-21 10:29:04,715
+Crime Statistics 716,Public Safety,CSV,2408,1925,3.4,Needs update,Africa,35â44,2023-08-27 18:31:40,716
+Emergency Response Times 717,Public Safety,JSON,1498,416,1.3,Excellent,Africa,18â24,2023-09-13 12:50:34,717
+Fire Incidents 718,Public Safety,JSON,4938,1691,1.2,Needs update,Africa,45â54,2023-03-04 09:38:45,718
+Mental Health Trends 719,Health,JSON,73,857,1.6,Average,South America,25â34,2023-02-20 15:33:07,719
+Commute Times 720,Transportation,JSON,305,1248,3.9,Great detail,Europe,25â34,2023-02-24 15:50:14,720
+Air Quality Levels 721,Environment,Excel,3611,697,1.9,Not relevant,Europe,45â54,2023-06-14 15:34:20,721
+Vehicle Emissions 722,Transportation,Excel,2792,1339,1.6,Needs update,Asia,18â24,2023-02-23 17:48:11,722
+Fire Incidents 723,Public Safety,JSON,3680,360,3.0,Not relevant,Europe,45â54,2023-12-02 19:35:03,723
+Mental Health Trends 724,Health,XML,4438,1144,1.7,Excellent,Asia,25â34,2023-06-02 14:01:40,724
+Inflation Trends 725,Finance,JSON,3834,617,3.0,Excellent,Australia,35â44,2023-06-01 09:04:01,725
+COVID-19 Data 726,Health,Excel,695,831,2.8,Not relevant,Asia,35â44,2023-06-07 17:48:27,726
+Vehicle Emissions 727,Transportation,Excel,2017,1434,3.6,Great detail,Africa,18â24,2023-04-06 09:57:31,727
+Expenditure Tracking 728,Finance,CSV,1564,1173,4.5,Great detail,Asia,25â34,2023-11-07 13:21:51,728
+Disaster Recovery 729,Public Safety,CSV,846,1121,3.4,Needs update,Australia,25â34,2023-10-06 12:26:21,729
+Commute Times 730,Transportation,JSON,3608,1007,3.5,Average,South America,18â24,2023-03-11 17:59:18,730
+Crime Statistics 731,Public Safety,CSV,1025,129,2.5,Great detail,South America,18â24,2023-07-19 15:01:29,731
+Water Pollution Data 732,Environment,CSV,2029,1680,2.7,Great detail,Africa,55â64,2023-09-12 16:30:02,732
+Public Transport Statistics 733,Transportation,JSON,2137,278,4.2,Not relevant,Africa,25â34,2023-03-23 13:08:08,733
+Economic Growth Metrics 734,Finance,JSON,4899,1742,3.7,Average,Australia,18â24,2023-08-10 14:56:34,734
+Green Energy Usage 735,Environment,JSON,4480,1244,4.4,Great detail,South America,25â34,2023-09-15 20:45:55,735
+Air Quality Levels 736,Environment,JSON,1268,829,2.9,Average,North America,45â54,2023-05-27 14:48:51,736
+Water Pollution Data 737,Environment,Excel,752,852,1.7,Excellent,Africa,35â44,2023-11-18 14:50:32,737
+Vaccination Statistics 738,Health,Excel,2591,1100,3.3,Excellent,Africa,35â44,2023-04-03 15:35:49,738
+Education Funding 739,Education,JSON,3103,1658,2.6,Excellent,North America,25â34,2023-11-25 10:33:53,739
+Community Policing 740,Public Safety,CSV,1725,447,2.6,Not relevant,South America,35â44,2023-04-24 03:20:36,740
+Air Quality Levels 741,Environment,Excel,3493,586,3.9,Average,South America,35â44,2023-02-09 20:49:39,741
+Vehicle Emissions 742,Transportation,XML,1513,1595,1.7,Not relevant,Africa,35â44,2023-03-17 16:02:48,742
+Public Transport Statistics 743,Transportation,CSV,3165,1140,4.8,Not relevant,Africa,45â54,2023-03-09 01:20:01,743
+Deforestation Rates 744,Environment,CSV,1587,728,3.1,Average,Asia,25â34,2023-09-27 07:55:54,744
+Inflation Trends 745,Finance,CSV,433,1359,3.2,Very useful,Australia,35â44,2023-11-25 14:45:42,745
+National Budget Reports 746,Finance,JSON,2611,1123,1.7,Average,Africa,55â64,2023-01-18 09:58:08,746
+Tax Revenue Analysis 747,Finance,XML,229,964,3.9,Very useful,Europe,45â54,2023-07-02 17:34:48,747
+Public Transport Statistics 748,Transportation,Excel,4429,284,2.2,Excellent,Africa,35â44,2023-12-05 08:45:52,748
+Mental Health Trends 749,Health,Excel,3318,691,2.4,Excellent,North America,45â54,2023-08-28 11:49:14,749
+Disease Outbreaks 750,Health,JSON,3860,1260,2.7,Needs update,North America,45â54,2023-08-07 09:34:22,750
+Air Quality Levels 751,Environment,JSON,3680,1447,2.0,Needs update,Africa,45â54,2023-10-05 19:40:52,751
+Literacy Rates 752,Education,CSV,896,922,1.2,Very useful,Africa,25â34,2023-08-27 10:35:18,752
+Vaccination Statistics 753,Health,JSON,454,1106,1.5,Average,Asia,25â34,2023-12-24 15:34:01,753
+Deforestation Rates 754,Environment,XML,4251,1526,2.8,Great detail,Asia,55â64,2023-05-10 13:30:34,754
+Disease Outbreaks 755,Health,Excel,1997,1061,3.4,Needs update,Europe,45â54,2023-10-12 10:24:47,755
+Air Quality Levels 756,Environment,XML,3493,661,4.5,Not relevant,Europe,35â44,2023-10-27 15:58:38,756
+Tax Revenue Analysis 757,Finance,Excel,1178,1926,3.6,Excellent,North America,25â34,2023-11-11 17:44:58,757
+Waste Management 758,Environment,Excel,3783,1594,2.1,Excellent,Asia,25â34,2023-10-26 09:06:42,758
+Economic Growth Metrics 759,Finance,CSV,780,1903,1.4,Excellent,Europe,35â44,2023-06-27 20:41:20,759
+Community Policing 760,Public Safety,JSON,794,1871,4.2,Very useful,Asia,45â54,2023-09-03 16:34:32,760
+School Enrollment Data 761,Education,JSON,2724,1191,3.6,Not relevant,Europe,35â44,2023-02-16 08:08:32,761
+Vehicle Emissions 762,Transportation,CSV,2709,299,3.8,Very useful,South America,25â34,2023-02-22 16:25:37,762
+Vaccination Statistics 763,Health,Excel,3547,1294,1.1,Excellent,Africa,45â54,2023-10-19 03:48:01,763
+Mental Health Trends 764,Health,Excel,4719,1800,3.6,Needs update,Europe,25â34,2023-11-25 16:02:16,764
+Disease Outbreaks 765,Health,CSV,3399,1279,3.7,Average,Europe,35â44,2023-03-19 09:30:14,765
+COVID-19 Data 766,Health,JSON,4370,738,4.1,Very useful,Africa,18â24,2023-04-11 10:39:19,766
+Tax Revenue Analysis 767,Finance,XML,865,1603,1.1,Needs update,Europe,25â34,2023-10-01 10:15:33,767
+Expenditure Tracking 768,Finance,XML,3659,568,4.0,Very useful,Europe,35â44,2023-12-19 06:46:41,768
+Disaster Recovery 769,Public Safety,XML,2923,1764,4.9,Great detail,Africa,35â44,2023-01-17 18:58:15,769
+Inflation Trends 770,Finance,CSV,4404,262,1.6,Average,Australia,45â54,2023-07-14 13:52:43,770
+Crime Statistics 771,Public Safety,JSON,518,448,2.1,Great detail,Asia,25â34,2023-11-12 09:25:11,771
+Tax Revenue Analysis 772,Finance,XML,848,963,4.1,Average,Australia,45â54,2023-03-07 12:30:50,772
+Waste Management 773,Environment,XML,485,973,5.0,Average,Europe,25â34,2023-09-27 19:26:14,773
+Road Safety Analysis 774,Transportation,JSON,385,267,1.0,Average,Europe,18â24,2023-10-07 17:31:04,774
+Inflation Trends 775,Finance,JSON,3547,655,4.4,Needs update,South America,55â64,2023-07-02 02:15:09,775
+Crime Statistics 776,Public Safety,CSV,147,1465,1.6,Very useful,North America,35â44,2023-02-03 18:54:49,776
+Water Pollution Data 777,Environment,CSV,3646,435,2.6,Very useful,Europe,45â54,2023-10-28 16:00:48,777
+Waste Management 778,Environment,JSON,4408,1718,1.2,Excellent,North America,45â54,2023-04-28 18:35:14,778
+Deforestation Rates 779,Environment,Excel,1431,821,1.9,Excellent,North America,35â44,2023-08-28 20:31:39,779
+Inflation Trends 780,Finance,CSV,2545,860,4.4,Very useful,Europe,25â34,2023-04-02 17:45:01,780
+Traffic Data 781,Transportation,JSON,2168,679,2.9,Very useful,South America,25â34,2023-10-01 01:12:04,781
+Vehicle Emissions 782,Transportation,JSON,3542,1011,3.6,Great detail,Australia,45â54,2023-05-17 10:00:58,782
+Fire Incidents 783,Public Safety,CSV,1788,1807,1.8,Excellent,Africa,25â34,2023-07-01 06:59:58,783
+Disaster Recovery 784,Public Safety,XML,2989,1251,3.8,Very useful,South America,45â54,2023-11-06 08:32:28,784
+Community Policing 785,Public Safety,Excel,2839,1730,1.7,Average,Australia,25â34,2023-10-15 08:00:02,785
+Traffic Data 786,Transportation,CSV,4513,929,1.6,Average,South America,25â34,2023-10-19 19:56:18,786
+Emergency Response Times 787,Public Safety,XML,414,717,4.5,Needs update,Africa,25â34,2023-10-21 08:05:09,787
+Public Transport Statistics 788,Transportation,Excel,983,1473,2.6,Excellent,North America,35â44,2023-07-01 09:00:35,788
+Deforestation Rates 789,Environment,XML,4039,333,4.1,Very useful,Africa,45â54,2023-07-27 00:56:36,789
+Commute Times 790,Transportation,XML,2067,451,1.1,Great detail,North America,45â54,2023-04-17 14:54:25,790
+Traffic Data 791,Transportation,XML,2855,1739,1.6,Great detail,North America,25â34,2023-03-05 21:09:49,791
+Tax Revenue Analysis 792,Finance,JSON,1183,1572,3.4,Great detail,Australia,25â34,2023-10-17 18:59:40,792
+Fire Incidents 793,Public Safety,Excel,3129,1814,1.2,Very useful,South America,25â34,2023-08-16 12:01:57,793
+Deforestation Rates 794,Environment,XML,2131,410,2.5,Average,South America,18â24,2023-12-09 17:12:47,794
+Commute Times 795,Transportation,JSON,956,636,1.7,Not relevant,Asia,25â34,2023-01-01 09:56:59,795
+Air Quality Levels 796,Environment,CSV,1205,1278,3.2,Great detail,North America,25â34,2023-04-02 16:41:18,796
+Literacy Rates 797,Education,CSV,3481,1056,2.5,Very useful,North America,45â54,2023-12-23 12:41:40,797
+Student Performance 798,Education,Excel,3240,934,3.3,Excellent,South America,55â64,2023-06-25 20:00:50,798
+Road Safety Analysis 799,Transportation,JSON,1071,933,3.9,Excellent,Europe,18â24,2023-12-03 16:45:08,799
+Inflation Trends 800,Finance,XML,3901,1421,3.9,Not relevant,North America,25â34,2023-05-28 14:51:18,800
+Crime Statistics 801,Public Safety,JSON,3165,1705,1.4,Not relevant,Europe,35â44,2023-03-19 14:11:50,801
+Tax Revenue Analysis 802,Finance,Excel,694,24,2.2,Excellent,South America,45â54,2023-02-16 07:27:20,802
+Public Transport Statistics 803,Transportation,Excel,3496,708,3.3,Not relevant,Asia,35â44,2023-01-28 21:21:11,803
+Economic Growth Metrics 804,Finance,CSV,4141,500,4.1,Average,North America,18â24,2023-02-01 15:02:45,804
+Commute Times 805,Transportation,CSV,1855,1295,3.8,Excellent,Asia,35â44,2023-03-14 15:26:58,805
+Traffic Data 806,Transportation,Excel,4011,1822,1.4,Not relevant,Asia,35â44,2023-06-05 10:41:30,806
+Water Pollution Data 807,Environment,Excel,4095,1696,4.7,Great detail,Africa,35â44,2023-11-25 14:38:57,807
+Expenditure Tracking 808,Finance,Excel,2378,57,3.5,Great detail,Australia,45â54,2023-12-17 13:17:15,808
+Economic Growth Metrics 809,Finance,XML,4460,962,4.3,Very useful,South America,55â64,2023-10-19 17:38:40,809
+Inflation Trends 810,Finance,XML,2650,1210,1.4,Excellent,Asia,45â54,2023-12-05 15:03:29,810
+Traffic Data 811,Transportation,CSV,3478,156,1.7,Needs update,South America,25â34,2023-04-22 08:54:08,811
+Water Pollution Data 812,Environment,XML,2541,226,2.9,Great detail,North America,35â44,2023-07-15 14:00:39,812
+Student Performance 813,Education,CSV,4066,766,4.8,Needs update,Australia,35â44,2023-02-01 13:57:21,813
+Economic Growth Metrics 814,Finance,CSV,1827,1787,2.8,Excellent,Europe,25â34,2023-01-08 17:51:31,814
+Inflation Trends 815,Finance,JSON,1051,1471,2.4,Very useful,Europe,25â34,2023-09-02 18:57:19,815
+Air Quality Levels 816,Environment,Excel,2357,716,2.8,Great detail,Asia,25â34,2023-11-06 11:57:36,816
+Literacy Rates 817,Education,Excel,3468,29,4.7,Average,Europe,25â34,2023-06-02 19:42:58,817
+Waste Management 818,Environment,CSV,1146,436,3.1,Needs update,Africa,18â24,2023-03-10 21:52:03,818
+Deforestation Rates 819,Environment,Excel,3018,1635,2.3,Very useful,North America,35â44,2023-05-21 13:37:12,819
+Community Policing 820,Public Safety,CSV,1025,1480,3.7,Not relevant,Asia,45â54,2023-12-18 09:44:55,820
+School Enrollment Data 821,Education,JSON,2869,922,2.4,Average,North America,18â24,2023-11-25 20:13:22,821
+Emergency Response Times 822,Public Safety,JSON,2224,989,2.9,Excellent,Europe,18â24,2023-05-27 18:54:03,822
+Public Transport Statistics 823,Transportation,JSON,4631,521,2.9,Very useful,Europe,25â34,2023-08-20 10:32:26,823
+Economic Growth Metrics 824,Finance,JSON,1087,1366,4.2,Needs update,Asia,25â34,2023-10-13 13:03:58,824
+Inflation Trends 825,Finance,XML,1588,22,3.8,Needs update,Asia,25â34,2023-11-19 12:58:35,825
+Crime Statistics 826,Public Safety,JSON,2771,1114,3.1,Great detail,North America,25â34,2023-01-08 19:15:54,826
+Literacy Rates 827,Education,JSON,3847,1931,3.2,Not relevant,Africa,65+,2023-07-07 13:03:53,827
+Public Transport Statistics 828,Transportation,JSON,665,1009,2.4,Excellent,South America,18â24,2023-04-02 23:01:41,828
+Mental Health Trends 829,Health,JSON,2507,732,2.3,Needs update,South America,25â34,2023-09-22 12:43:53,829
+Commute Times 830,Transportation,JSON,2510,919,2.8,Great detail,Asia,35â44,2023-08-09 09:38:30,830
+National Budget Reports 831,Finance,JSON,2709,383,4.5,Not relevant,South America,25â34,2023-09-27 13:52:43,831
+Emergency Response Times 832,Public Safety,JSON,3216,1266,1.4,Great detail,Africa,55â64,2023-02-10 13:14:44,832
+Vaccination Statistics 833,Health,CSV,2510,1132,4.3,Excellent,Africa,55â64,2023-01-04 13:25:17,833
+Deforestation Rates 834,Environment,Excel,2185,686,2.1,Not relevant,Australia,45â54,2023-01-06 13:04:29,834
+Disease Outbreaks 835,Health,JSON,1480,30,3.7,Not relevant,Europe,65+,2023-04-02 18:18:57,835
+National Budget Reports 836,Finance,Excel,3091,1387,4.4,Average,Africa,45â54,2023-12-25 08:54:54,836
+Tax Revenue Analysis 837,Finance,Excel,4600,884,2.9,Needs update,North America,18â24,2023-03-21 20:46:15,837
+Vaccination Statistics 838,Health,JSON,2569,1295,2.7,Not relevant,South America,45â54,2023-10-06 09:49:09,838
+Economic Growth Metrics 839,Finance,CSV,2264,1184,3.9,Average,Australia,45â54,2023-06-26 08:41:57,839
+Commute Times 840,Transportation,Excel,1284,1023,1.4,Needs update,Australia,35â44,2023-09-16 10:43:27,840
+Traffic Data 841,Transportation,Excel,4798,1549,4.0,Great detail,Africa,25â34,2023-07-02 15:14:00,841
+Vehicle Emissions 842,Transportation,JSON,941,1593,4.6,Very useful,South America,25â34,2023-10-10 13:05:31,842
+Waste Management 843,Environment,JSON,4021,792,3.1,Not relevant,South America,45â54,2023-11-21 15:23:11,843
+Mental Health Trends 844,Health,Excel,4540,1854,3.6,Excellent,Australia,35â44,2023-03-11 20:09:48,844
+Community Policing 845,Public Safety,Excel,2955,1929,3.0,Average,Asia,55â64,2023-05-23 00:26:05,845
+National Budget Reports 846,Finance,CSV,4120,389,3.2,Average,Europe,35â44,2023-07-23 08:04:06,846
+Literacy Rates 847,Education,Excel,4402,90,4.0,Average,Europe,18â24,2023-05-24 16:20:33,847
+Vaccination Statistics 848,Health,JSON,3722,873,2.6,Great detail,North America,35â44,2023-10-24 01:01:26,848
+Road Safety Analysis 849,Transportation,CSV,2074,1587,4.6,Excellent,South America,18â24,2023-08-22 13:41:43,849
+Disease Outbreaks 850,Health,Excel,615,441,2.0,Great detail,Africa,65+,2023-02-23 14:24:11,850
+Traffic Data 851,Transportation,Excel,3009,660,4.4,Average,Africa,25â34,2023-07-16 16:08:27,851
+Vehicle Emissions 852,Transportation,XML,1289,179,4.5,Very useful,North America,25â34,2023-06-22 05:04:51,852
+Student Performance 853,Education,XML,2535,1009,3.7,Very useful,Europe,35â44,2023-02-02 00:49:23,853
+Mental Health Trends 854,Health,JSON,1031,1566,3.1,Great detail,South America,18â24,2023-10-11 00:30:39,854
+Commute Times 855,Transportation,JSON,4695,1647,2.2,Very useful,Asia,45â54,2023-04-05 18:02:20,855
+National Budget Reports 856,Finance,JSON,1239,1203,1.5,Not relevant,Asia,35â44,2023-03-27 20:25:28,856
+Hospital Admissions 857,Health,CSV,4771,1116,3.0,Excellent,Africa,35â44,2023-11-28 10:04:14,857
+Waste Management 858,Environment,Excel,3377,576,2.7,Excellent,Europe,45â54,2023-12-18 20:07:36,858
+Mental Health Trends 859,Health,JSON,580,1836,3.2,Excellent,North America,65+,2023-02-08 18:07:27,859
+Inflation Trends 860,Finance,XML,2678,1905,3.5,Very useful,Europe,45â54,2023-12-26 14:40:47,860
+National Budget Reports 861,Finance,CSV,1552,963,2.7,Needs update,Asia,45â54,2023-08-08 02:04:42,861
+Hospital Admissions 862,Health,XML,3241,1244,3.8,Average,Asia,25â34,2023-07-25 08:18:59,862
+Fire Incidents 863,Public Safety,JSON,2433,1507,2.0,Excellent,North America,25â34,2023-03-25 16:35:52,863
+Economic Growth Metrics 864,Finance,XML,3554,1346,2.3,Very useful,Europe,18â24,2023-12-23 17:14:10,864
+Teacher Distribution 865,Education,CSV,3666,1059,4.0,Very useful,Africa,35â44,2023-06-15 09:21:44,865
+COVID-19 Data 866,Health,XML,291,37,1.8,Great detail,South America,18â24,2023-04-08 18:42:44,866
+Literacy Rates 867,Education,JSON,748,1385,3.4,Great detail,Europe,18â24,2023-10-08 20:02:43,867
+Waste Management 868,Environment,Excel,2785,1949,4.0,Very useful,North America,25â34,2023-08-25 11:59:37,868
+Education Funding 869,Education,XML,1826,1851,4.5,Excellent,Asia,25â34,2023-03-11 14:33:51,869
+Teacher Distribution 870,Education,Excel,1808,905,4.7,Excellent,Europe,25â34,2023-08-24 10:11:05,870
+School Enrollment Data 871,Education,Excel,833,1871,1.9,Excellent,Asia,35â44,2023-03-01 16:16:51,871
+Tax Revenue Analysis 872,Finance,JSON,2956,1374,3.9,Very useful,Asia,35â44,2023-10-28 17:35:27,872
+Public Transport Statistics 873,Transportation,JSON,2047,223,1.9,Excellent,North America,18â24,2023-10-25 08:21:43,873
+Economic Growth Metrics 874,Finance,XML,812,49,2.5,Very useful,North America,65+,2023-02-13 20:12:53,874
+Inflation Trends 875,Finance,XML,2541,1257,1.5,Average,South America,35â44,2023-01-17 19:07:21,875
+COVID-19 Data 876,Health,XML,3694,1258,2.4,Average,Africa,45â54,2023-12-18 10:31:42,876
+Tax Revenue Analysis 877,Finance,JSON,1083,591,1.4,Excellent,Australia,25â34,2023-05-24 19:16:52,877
+Public Transport Statistics 878,Transportation,Excel,3173,26,1.8,Excellent,South America,35â44,2023-03-06 20:01:06,878
+Disaster Recovery 879,Public Safety,Excel,1042,1733,1.4,Needs update,Asia,25â34,2023-07-11 20:29:02,879
+Disease Outbreaks 880,Health,XML,2209,987,3.0,Average,North America,18â24,2023-12-17 09:25:07,880
+COVID-19 Data 881,Health,Excel,2841,702,1.1,Great detail,North America,18â24,2023-02-08 17:24:17,881
+Literacy Rates 882,Education,Excel,1436,1381,1.7,Average,Asia,25â34,2023-03-14 19:33:51,882
+Student Performance 883,Education,JSON,4836,1018,4.0,Average,North America,18â24,2023-06-17 14:56:28,883
+Mental Health Trends 884,Health,XML,1307,555,2.4,Needs update,Europe,35â44,2023-03-06 18:13:37,884
+Inflation Trends 885,Finance,JSON,2520,1376,4.9,Very useful,South America,25â34,2023-12-11 20:26:25,885
+Traffic Data 886,Transportation,XML,2835,1406,3.8,Average,Asia,25â34,2023-10-10 12:03:05,886
+Vehicle Emissions 887,Transportation,JSON,4593,644,2.2,Needs update,South America,55â64,2023-02-21 20:49:12,887
+Public Transport Statistics 888,Transportation,CSV,4642,1647,2.9,Very useful,North America,25â34,2023-03-23 17:35:32,888
+Road Safety Analysis 889,Transportation,XML,4252,1802,3.5,Very useful,Asia,25â34,2023-01-27 12:35:01,889
+Inflation Trends 890,Finance,CSV,3629,1977,1.4,Very useful,Asia,65+,2023-04-13 14:27:45,890
+Traffic Data 891,Transportation,CSV,599,226,3.2,Needs update,Australia,55â64,2023-04-21 09:44:42,891
+Literacy Rates 892,Education,JSON,424,962,3.6,Not relevant,Asia,45â54,2023-09-17 20:51:04,892
+Waste Management 893,Environment,Excel,4436,1225,2.5,Very useful,Europe,35â44,2023-05-11 18:46:03,893
+Education Funding 894,Education,CSV,1137,1689,2.1,Average,South America,35â44,2023-05-23 09:47:20,894
+Community Policing 895,Public Safety,Excel,155,1177,3.0,Average,Australia,35â44,2023-04-17 22:40:24,895
+COVID-19 Data 896,Health,JSON,2215,1611,2.9,Not relevant,Asia,18â24,2023-09-13 20:39:21,896
+Emergency Response Times 897,Public Safety,Excel,2612,1393,3.4,Great detail,Asia,45â54,2023-02-27 20:02:49,897
+Fire Incidents 898,Public Safety,XML,601,1946,3.3,Great detail,North America,45â54,2023-01-16 20:00:49,898
+Road Safety Analysis 899,Transportation,Excel,893,469,1.4,Not relevant,Europe,25â34,2023-01-15 20:32:15,899
+Teacher Distribution 900,Education,CSV,4103,1057,4.4,Great detail,Europe,18â24,2023-02-14 19:18:10,900
+Air Quality Levels 901,Environment,XML,2330,1050,1.2,Great detail,Africa,25â34,2023-11-21 08:15:07,901
+Tax Revenue Analysis 902,Finance,CSV,1696,1284,3.1,Very useful,Africa,35â44,2023-10-17 14:09:07,902
+Expenditure Tracking 903,Finance,JSON,3135,1902,3.8,Great detail,Europe,18â24,2023-07-25 12:12:42,903
+Education Funding 904,Education,XML,4407,464,3.4,Excellent,Asia,25â34,2023-01-06 08:57:54,904
+Community Policing 905,Public Safety,JSON,3279,1898,1.9,Not relevant,Australia,18â24,2023-12-22 08:13:06,905
+School Enrollment Data 906,Education,Excel,641,1618,4.7,Very useful,Australia,65+,2023-08-07 19:43:25,906
+Emergency Response Times 907,Public Safety,JSON,4512,554,3.4,Needs update,Asia,25â34,2023-03-06 10:26:05,907
+Vaccination Statistics 908,Health,Excel,3411,927,4.3,Not relevant,South America,45â54,2023-06-19 10:33:28,908
+Disaster Recovery 909,Public Safety,XML,243,614,2.8,Very useful,Europe,18â24,2023-05-05 09:01:57,909
+Disease Outbreaks 910,Health,CSV,2888,1553,4.7,Great detail,South America,45â54,2023-03-25 23:23:58,910
+National Budget Reports 911,Finance,Excel,3029,528,2.1,Excellent,North America,25â34,2023-10-22 11:50:18,911
+Tax Revenue Analysis 912,Finance,CSV,2909,1711,2.8,Needs update,Asia,45â54,2023-01-21 01:35:10,912
+Expenditure Tracking 913,Finance,CSV,4528,1641,3.1,Not relevant,South America,25â34,2023-11-21 11:38:46,913
+Education Funding 914,Education,Excel,3679,972,4.4,Excellent,Australia,25â34,2023-05-14 13:37:40,914
+Disease Outbreaks 915,Health,JSON,3127,1061,3.7,Excellent,South America,45â54,2023-04-16 18:51:02,915
+Air Quality Levels 916,Environment,CSV,4153,1601,1.8,Average,Australia,35â44,2023-10-03 07:50:53,916
+Water Pollution Data 917,Environment,Excel,3036,1510,1.8,Great detail,South America,25â34,2023-01-08 20:00:48,917
+Public Transport Statistics 918,Transportation,CSV,1448,422,1.6,Very useful,Africa,55â64,2023-12-01 21:56:01,918
+Disaster Recovery 919,Public Safety,JSON,1175,343,1.9,Average,North America,35â44,2023-05-28 08:29:44,919
+Commute Times 920,Transportation,JSON,2013,740,4.0,Not relevant,Africa,18â24,2023-01-09 20:19:18,920
+School Enrollment Data 921,Education,JSON,1451,1981,3.1,Very useful,Africa,55â64,2023-02-11 16:51:32,921
+Water Pollution Data 922,Environment,JSON,1945,1972,1.3,Average,Europe,35â44,2023-06-06 05:19:38,922
+Fire Incidents 923,Public Safety,Excel,527,1906,4.5,Very useful,Europe,25â34,2023-04-12 15:01:32,923
+Deforestation Rates 924,Environment,Excel,2022,697,3.3,Not relevant,Africa,45â54,2023-01-07 04:51:37,924
+Commute Times 925,Transportation,JSON,3115,426,4.2,Needs update,North America,25â34,2023-07-17 14:40:24,925
+COVID-19 Data 926,Health,CSV,971,1483,3.0,Not relevant,Australia,55â64,2023-12-05 18:52:05,926
+Hospital Admissions 927,Health,XML,1284,113,1.5,Great detail,North America,45â54,2023-07-28 19:26:20,927
+Expenditure Tracking 928,Finance,XML,4816,1786,1.8,Not relevant,North America,35â44,2023-03-13 04:06:52,928
+Mental Health Trends 929,Health,XML,1197,1750,4.4,Great detail,North America,35â44,2023-01-27 14:00:35,929
+Teacher Distribution 930,Education,CSV,2946,1328,4.1,Very useful,Asia,45â54,2023-11-08 19:00:07,930
+Traffic Data 931,Transportation,XML,3999,202,2.4,Average,Europe,35â44,2023-11-10 01:45:54,931
+Hospital Admissions 932,Health,CSV,3150,1488,2.2,Average,Africa,35â44,2023-07-02 08:46:40,932
+Vaccination Statistics 933,Health,XML,3530,56,1.0,Great detail,Asia,18â24,2023-11-13 14:51:44,933
+Disaster Recovery 934,Public Safety,Excel,3473,1849,4.5,Excellent,South America,25â34,2023-06-03 16:51:14,934
+Disease Outbreaks 935,Health,CSV,2419,1491,3.9,Needs update,Australia,45â54,2023-03-06 14:21:53,935
+National Budget Reports 936,Finance,XML,3168,483,3.8,Very useful,Asia,18â24,2023-08-11 19:56:34,936
+Literacy Rates 937,Education,CSV,4643,390,1.5,Excellent,North America,25â34,2023-09-22 09:20:34,937
+Public Transport Statistics 938,Transportation,Excel,2642,302,2.8,Great detail,North America,45â54,2023-12-20 14:49:56,938
+Education Funding 939,Education,Excel,751,487,1.6,Great detail,Australia,65+,2023-03-01 17:08:56,939
+Commute Times 940,Transportation,CSV,4396,289,1.1,Average,Australia,18â24,2023-12-12 16:16:23,940
+Crime Statistics 941,Public Safety,XML,2102,328,4.4,Very useful,Asia,35â44,2023-12-10 17:59:51,941
+Hospital Admissions 942,Health,XML,791,1867,1.9,Needs update,Africa,35â44,2023-10-17 01:21:00,942
+Fire Incidents 943,Public Safety,CSV,3734,1301,4.9,Very useful,Asia,35â44,2023-07-17 18:54:22,943
+Economic Growth Metrics 944,Finance,JSON,1329,974,3.2,Excellent,Africa,18â24,2023-08-20 08:40:45,944
+Inflation Trends 945,Finance,JSON,3463,1921,3.9,Not relevant,Africa,18â24,2023-10-22 17:25:52,945
+Air Quality Levels 946,Environment,Excel,662,1035,3.7,Average,Africa,18â24,2023-10-01 17:14:24,946
+Vehicle Emissions 947,Transportation,XML,1386,1621,1.9,Average,Africa,25â34,2023-07-20 08:24:36,947
+Vaccination Statistics 948,Health,XML,4130,328,2.2,Great detail,Australia,25â34,2023-09-16 17:55:45,948
+Road Safety Analysis 949,Transportation,Excel,1242,149,4.7,Not relevant,Africa,25â34,2023-08-01 10:28:09,949
+Commute Times 950,Transportation,Excel,4160,1559,1.1,Excellent,North America,35â44,2023-12-22 21:22:15,950
+School Enrollment Data 951,Education,CSV,4045,1100,2.6,Not relevant,Asia,55â64,2023-09-25 12:27:40,951
+Tax Revenue Analysis 952,Finance,JSON,1908,594,1.5,Not relevant,Australia,55â64,2023-08-14 14:43:44,952
+Student Performance 953,Education,XML,651,678,4.3,Needs update,Europe,25â34,2023-08-14 20:56:09,953
+Road Safety Analysis 954,Transportation,XML,231,1774,4.6,Not relevant,South America,25â34,2023-03-07 17:11:51,954
+Green Energy Usage 955,Environment,JSON,3214,1751,2.8,Needs update,Australia,45â54,2023-09-25 01:59:30,955
+COVID-19 Data 956,Health,Excel,4384,1873,1.5,Very useful,Asia,18â24,2023-03-26 20:56:33,956
+Emergency Response Times 957,Public Safety,CSV,2518,1621,2.2,Excellent,South America,25â34,2023-04-22 19:23:12,957
+Expenditure Tracking 958,Finance,XML,3633,59,2.2,Excellent,Australia,45â54,2023-09-26 09:29:00,958
+Education Funding 959,Education,Excel,1648,1028,2.6,Not relevant,North America,25â34,2023-04-01 08:18:07,959
+Disease Outbreaks 960,Health,CSV,3733,856,2.1,Very useful,Europe,35â44,2023-11-17 15:16:41,960
+Crime Statistics 961,Public Safety,Excel,2632,178,3.4,Excellent,Asia,18â24,2023-02-28 13:11:19,961
+Water Pollution Data 962,Environment,CSV,2062,1791,3.3,Excellent,North America,25â34,2023-09-05 14:35:06,962
+Waste Management 963,Environment,Excel,4930,734,4.0,Excellent,North America,35â44,2023-10-06 11:28:22,963
+Deforestation Rates 964,Environment,Excel,4022,1251,5.0,Average,South America,35â44,2023-10-19 19:00:31,964
+Green Energy Usage 965,Environment,JSON,3844,977,2.9,Very useful,Africa,18â24,2023-03-05 12:01:12,965
+Crime Statistics 966,Public Safety,Excel,3224,45,3.6,Very useful,Europe,25â34,2023-05-21 20:00:08,966
+Water Pollution Data 967,Environment,CSV,1984,1533,1.8,Very useful,Africa,35â44,2023-11-19 16:15:04,967
+Vaccination Statistics 968,Health,Excel,2163,143,2.4,Great detail,Europe,45â54,2023-10-02 18:47:46,968
+Deforestation Rates 969,Environment,CSV,4780,1163,3.0,Very useful,South America,45â54,2023-08-07 11:06:56,969
+Green Energy Usage 970,Environment,XML,2307,531,2.6,Great detail,South America,35â44,2023-09-17 16:28:23,970
+Air Quality Levels 971,Environment,JSON,1211,1088,1.6,Average,Australia,25â34,2023-08-11 19:43:49,971
+Literacy Rates 972,Education,Excel,4986,201,2.7,Excellent,Australia,35â44,2023-11-03 02:55:03,972
+Fire Incidents 973,Public Safety,Excel,2737,1749,3.0,Needs update,North America,25â34,2023-03-01 22:50:43,973
+Deforestation Rates 974,Environment,CSV,4600,635,1.5,Very useful,South America,55â64,2023-04-12 09:16:58,974
+Teacher Distribution 975,Education,CSV,1530,155,2.7,Great detail,South America,25â34,2023-04-28 13:45:00,975
+School Enrollment Data 976,Education,Excel,1896,691,2.2,Excellent,Australia,25â34,2023-09-23 03:31:02,976
+Literacy Rates 977,Education,XML,1354,1274,4.7,Not relevant,South America,35â44,2023-03-15 01:20:26,977
+Student Performance 978,Education,CSV,2809,463,1.2,Excellent,North America,55â64,2023-05-03 17:27:20,978
+Education Funding 979,Education,XML,3086,676,2.7,Not relevant,South America,45â54,2023-01-12 00:19:42,979
+Community Policing 980,Public Safety,CSV,4526,860,4.9,Excellent,Australia,25â34,2023-08-14 14:26:17,980
+Crime Statistics 981,Public Safety,Excel,190,1889,3.7,Not relevant,Europe,55â64,2023-10-14 11:17:37,981
+Tax Revenue Analysis 982,Finance,XML,4453,517,1.7,Excellent,Asia,45â54,2023-11-13 10:42:09,982
+Expenditure Tracking 983,Finance,XML,1516,798,2.7,Excellent,South America,35â44,2023-07-07 13:22:46,983
+Road Safety Analysis 984,Transportation,XML,3711,44,3.0,Excellent,Europe,35â44,2023-08-21 20:00:22,984
+Community Policing 985,Public Safety,CSV,2869,1296,2.4,Very useful,Australia,25â34,2023-05-17 19:43:23,985
+COVID-19 Data 986,Health,XML,2092,1332,3.9,Great detail,Asia,35â44,2023-12-27 16:14:45,986
+Hospital Admissions 987,Health,XML,1849,1882,4.6,Average,Europe,65+,2023-02-23 16:33:56,987
+Student Performance 988,Education,CSV,4089,1166,4.3,Average,Europe,35â44,2023-11-15 16:19:21,988
+Mental Health Trends 989,Health,JSON,2649,1773,4.1,Excellent,Africa,25â34,2023-11-19 03:21:11,989
+Green Energy Usage 990,Environment,Excel,3968,299,1.7,Average,Africa,35â44,2023-04-06 15:59:51,990
+National Budget Reports 991,Finance,XML,459,1738,3.4,Not relevant,Australia,35â44,2023-03-17 14:26:33,991
+Emergency Response Times 992,Public Safety,XML,3498,1738,3.4,Excellent,Australia,35â44,2023-09-11 18:11:53,992
+Expenditure Tracking 993,Finance,Excel,1714,1709,2.6,Average,Australia,18â24,2023-01-18 18:24:21,993
+Education Funding 994,Education,JSON,1244,1400,1.3,Average,Asia,18â24,2023-12-08 10:16:42,994
+Teacher Distribution 995,Education,Excel,3738,1058,4.2,Excellent,Asia,35â44,2023-10-22 06:45:45,995
+School Enrollment Data 996,Education,JSON,4616,263,3.6,Great detail,Africa,18â24,2023-11-13 17:52:10,996
+Vehicle Emissions 997,Transportation,XML,273,200,4.0,Needs update,North America,25â34,2023-11-04 13:44:29,997
+Vaccination Statistics 998,Health,CSV,2288,926,2.0,Not relevant,Australia,55â64,2023-10-15 16:23:03,998
+Road Safety Analysis 999,Transportation,JSON,1662,579,1.7,Very useful,South America,65+,2023-04-07 15:28:01,999
+Community Policing 1000,Public Safety,Excel,4200,1787,2.0,Great detail,Australia,35â44,2023-12-17 18:58:32,1000
